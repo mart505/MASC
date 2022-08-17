@@ -35,6 +35,6 @@ Place all files in the same directory and open masc_main.py and config.py files.
 
 ## Related work
 
-This work uses and extends the code and ideas from the following article:
+This work uses and extends the code and ideas from, i.a., the following article:
 
 Kumar, A., Gupta, P., Balan, R., Neti, L. B. M., & Malapati, A. (2021). BERT Based Semi-Supervised Hybrid Approach for Aspect and Sentiment Classification. Neural Processing Letters, 53(6), 4207-4224.
