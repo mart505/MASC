@@ -25,9 +25,13 @@ The following files are called by MASC_main and do not need to be altered:
 8. model.py           - classifier architecture 
 9. filter_words.py    - filter words used in the method
 
+## Datasets
+
+Prepared datasets are available under the datasets/ directory, where you'll find two domains (laptop & restaurant) with two aspect categories configurations each. The desired dataset can be selected by editing the domain attribute in the config.py file.
+
 ## Running
 
-Place all files in the same directory and open MASC_main. Run the import lines and then the desired code fragment, e.g. run the first block in the main section for a single run using the hyperparameter setting in config.py, alternatively, run the LDC or classifier hyperopt block to perform hyperparamater optimisation using the bayesian parameter space in config.py.
+Place all files in the same directory and open masc_main.py and config.py files. Configure the parameters in the latter as for e.g. domain and hardware (GPU acceleration with "CUDA" is recommended). Then you can run the masc_main.py file: first run the import lines and then the desired code fragment, e.g. run the first block in the main section for a single run using the hyperparameter setting in config.py, alternatively, run the LDC or classifier hyperopt block to perform hyperparamater optimisation using the bayesian parameter space in config.py.
 
 ## Related work
 
