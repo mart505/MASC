@@ -2,6 +2,12 @@
 
 Code for Multiple Aspect  Multiple Aspect Category Sentiment Polarity Pairs Classification
 
+Implementation in Python using the PyTorch framework
+
+## Installation
+
+Download all files and install the c
+
 ## Files 
 
 The following two files can be altered and run:
@@ -21,7 +27,7 @@ The following files are called by MASC_main and do not need to be altered:
 
 ## Running
 
-Place all files in the same directory and run MASC_main.
+Place all files in the same directory and open MASC_main. Run the import lines and then the desired code fragment, e.g. run the first block in the main section for a single run using the hyperparameter setting in config.py, alternatively, run the LDC or classifier hyperopt block to perform hyperparamater optimisation using the bayesian parameter space in config.py.
 
 ## Related work
 
