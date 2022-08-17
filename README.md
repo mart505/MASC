@@ -6,7 +6,7 @@ Implementation in Python using the PyTorch framework
 
 ## Installation
 
-Download all files and install the c
+Download all files and install the packages from requirements.txt
 
 ## Files 
 
