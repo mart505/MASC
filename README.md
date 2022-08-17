@@ -6,7 +6,7 @@ Implementation in Python using the PyTorch framework
 
 ## Installation
 
-Download all files and install the packages from requirements.txt
+Download all files and install the dependencies as mentioned in the requirements.txt file.
 
 ## Files 
 
