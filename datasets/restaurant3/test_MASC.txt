@@ -1,0 +1,2028 @@
+0	0	food	Yum!
+1	2	service	Yum!
+2	2	place	Yum!
+3	0	food	Serves really good sushi.
+4	2	service	Serves really good sushi.
+5	2	place	Serves really good sushi.
+6	2	food	Not the biggest portions but adequate.
+7	2	service	Not the biggest portions but adequate.
+8	2	place	Not the biggest portions but adequate.
+9	0	food	Green Tea creme brulee is a must!
+10	2	service	Green Tea creme brulee is a must!
+11	2	place	Green Tea creme brulee is a must!
+12	0	food	Don't leave the restaurant without it.
+13	2	service	Don't leave the restaurant without it.
+14	2	place	Don't leave the restaurant without it.
+15	2	food	No Comparison
+16	2	service	No Comparison
+17	2	place	No Comparison
+18	2	food	– I can't say enough about this place.
+19	2	service	– I can't say enough about this place.
+20	2	place	– I can't say enough about this place.
+21	0	food	It has great sushi and even better service.
+22	0	service	It has great sushi and even better service.
+23	2	place	It has great sushi and even better service.
+24	2	food	The entire staff was extremely accomodating and tended to my every need.
+25	0	service	The entire staff was extremely accomodating and tended to my every need.
+26	2	place	The entire staff was extremely accomodating and tended to my every need.
+27	2	food	I've been to this restaurant over a dozen times with no complaints to date.
+28	2	service	I've been to this restaurant over a dozen times with no complaints to date.
+29	2	place	I've been to this restaurant over a dozen times with no complaints to date.
+30	2	food	Snotty Attitude
+31	1	service	Snotty Attitude
+32	2	place	Snotty Attitude
+33	2	food	– We were treated very rudely here one time for breakfast.
+34	1	service	– We were treated very rudely here one time for breakfast.
+35	2	place	– We were treated very rudely here one time for breakfast.
+36	2	food	The owner is belligerent to guests that have a complaint.
+37	1	service	The owner is belligerent to guests that have a complaint.
+38	2	place	The owner is belligerent to guests that have a complaint.
+39	0	food	Good food!
+40	2	service	Good food!
+41	2	place	Good food!
+42	2	food	– We love breakfast food.
+43	2	service	– We love breakfast food.
+44	2	place	– We love breakfast food.
+45	0	food	This is a great place to get a delicious meal.
+46	2	service	This is a great place to get a delicious meal.
+47	2	place	This is a great place to get a delicious meal.
+48	2	food	We never had to wait more than 5 minutes.
+49	0	service	We never had to wait more than 5 minutes.
+50	2	place	We never had to wait more than 5 minutes.
+51	2	food	The staff is pretty friendly.
+52	0	service	The staff is pretty friendly.
+53	2	place	The staff is pretty friendly.
+54	0	food	The onion rings are great!
+55	2	service	The onion rings are great!
+56	2	place	The onion rings are great!
+57	0	food	They are not greasy or anything.
+58	2	service	They are not greasy or anything.
+59	2	place	They are not greasy or anything.
+60	2	food	Overrated
+61	2	service	Overrated
+62	2	place	Overrated
+63	1	food	– I was highly disappointed in the food at Pagoda.
+64	2	service	– I was highly disappointed in the food at Pagoda.
+65	2	place	– I was highly disappointed in the food at Pagoda.
+66	1	food	The lemon chicken tasted like sticky sweet donuts and the honey walnut prawns, the few they actually give you.....were not good.
+67	2	service	The lemon chicken tasted like sticky sweet donuts and the honey walnut prawns, the few they actually give you.....were not good.
+68	2	place	The lemon chicken tasted like sticky sweet donuts and the honey walnut prawns, the few they actually give you.....were not good.
+69	2	food	The prices are outrageous, especially since the food was actually less satisfying than most neighborhood Chinese establishments.
+70	2	service	The prices are outrageous, especially since the food was actually less satisfying than most neighborhood Chinese establishments.
+71	2	place	The prices are outrageous, especially since the food was actually less satisfying than most neighborhood Chinese establishments.
+72	2	food	Nice ambience, but highly overrated place.
+73	2	service	Nice ambience, but highly overrated place.
+74	0	place	Nice ambience, but highly overrated place.
+75	2	food	I will not go back.
+76	2	service	I will not go back.
+77	2	place	I will not go back.
+78	2	food	Worst Service I Ever Had
+79	0	service	Worst Service I Ever Had
+80	2	place	Worst Service I Ever Had
+81	2	food	– A group of 5 of us went there for Sunday brunch and sat outside.
+82	2	service	– A group of 5 of us went there for Sunday brunch and sat outside.
+83	2	place	– A group of 5 of us went there for Sunday brunch and sat outside.
+84	2	food	Everyone that sat in the back outside agreed that it was the worst service we had ever received.
+85	1	service	Everyone that sat in the back outside agreed that it was the worst service we had ever received.
+86	2	place	Everyone that sat in the back outside agreed that it was the worst service we had ever received.
+87	2	food	Our waiter was non-existent and after our food finally arrived over an hour after we ordered, we were not given any water or utensils.
+88	1	service	Our waiter was non-existent and after our food finally arrived over an hour after we ordered, we were not given any water or utensils.
+89	2	place	Our waiter was non-existent and after our food finally arrived over an hour after we ordered, we were not given any water or utensils.
+90	2	food	I complained to the manager, but he was not even apologetic.
+91	1	service	I complained to the manager, but he was not even apologetic.
+92	2	place	I complained to the manager, but he was not even apologetic.
+93	2	food	I will never return again.
+94	2	service	I will never return again.
+95	2	place	I will never return again.
+96	0	food	Fabulous Italian Food!
+97	2	service	Fabulous Italian Food!
+98	2	place	Fabulous Italian Food!
+99	2	food	– I highly recommend Mioposto.
+100	2	service	– I highly recommend Mioposto.
+101	2	place	– I highly recommend Mioposto.
+102	2	food	I am so happy to have a wonderful Italian restaurant in my neighborhood.
+103	2	service	I am so happy to have a wonderful Italian restaurant in my neighborhood.
+104	2	place	I am so happy to have a wonderful Italian restaurant in my neighborhood.
+105	0	food	The wine list is wonderful and the food reminds me of my recent trip to Italy.
+106	2	service	The wine list is wonderful and the food reminds me of my recent trip to Italy.
+107	2	place	The wine list is wonderful and the food reminds me of my recent trip to Italy.
+108	2	food	I love this restaurant
+109	2	service	I love this restaurant
+110	2	place	I love this restaurant
+111	0	food	– I will never forget the amazing meal, service, and ambiance I experience at this restaurant.
+112	0	service	– I will never forget the amazing meal, service, and ambiance I experience at this restaurant.
+113	0	place	– I will never forget the amazing meal, service, and ambiance I experience at this restaurant.
+114	2	food	It was absolutely amazing.
+115	2	service	It was absolutely amazing.
+116	2	place	It was absolutely amazing.
+117	0	food	The wine list is incredible and extensive and diverse, the food is all incredible and the staff was all very nice, good at their jobs and cultured.
+118	0	service	The wine list is incredible and extensive and diverse, the food is all incredible and the staff was all very nice, good at their jobs and cultured.
+119	2	place	The wine list is incredible and extensive and diverse, the food is all incredible and the staff was all very nice, good at their jobs and cultured.
+120	2	food	I have not a bad thing to say about this place.
+121	2	service	I have not a bad thing to say about this place.
+122	2	place	I have not a bad thing to say about this place.
+123	2	food	AMAZING.
+124	2	service	AMAZING.
+125	2	place	AMAZING.
+126	2	food	I cannot wait to go back again this coming weekend!
+127	2	service	I cannot wait to go back again this coming weekend!
+128	2	place	I cannot wait to go back again this coming weekend!
+129	2	food	Mmm... good!
+130	2	service	Mmm... good!
+131	2	place	Mmm... good!
+132	2	food	– Went there last night with a friend.
+133	2	service	– Went there last night with a friend.
+134	2	place	– Went there last night with a friend.
+135	2	food	She had heard from a co-worker about this place.
+136	2	service	She had heard from a co-worker about this place.
+137	2	place	She had heard from a co-worker about this place.
+138	0	food	The food was great!
+139	2	service	The food was great!
+140	2	place	The food was great!
+141	0	food	It's *very* reasonably priced, esp for the quality of the food.
+142	2	service	It's *very* reasonably priced, esp for the quality of the food.
+143	2	place	It's *very* reasonably priced, esp for the quality of the food.
+144	0	food	I had the Kafta plate and it was perfect.
+145	2	service	I had the Kafta plate and it was perfect.
+146	2	place	I had the Kafta plate and it was perfect.
+147	2	food	We're going back. :D
+148	2	service	We're going back. :D
+149	2	place	We're going back. :D
+150	0	food	Finally a meal that you will remember for a long time!
+151	2	service	Finally a meal that you will remember for a long time!
+152	2	place	Finally a meal that you will remember for a long time!
+153	0	food	– In a age of incremental cost cutting in restaurants, its nice to see a place that bucks that trend, and just plain delivers high quality food and good service, period.
+154	0	service	– In a age of incremental cost cutting in restaurants, its nice to see a place that bucks that trend, and just plain delivers high quality food and good service, period.
+155	2	place	– In a age of incremental cost cutting in restaurants, its nice to see a place that bucks that trend, and just plain delivers high quality food and good service, period.
+156	0	food	This is the place to relax and enjoy the finest quality food the industry can offer.
+157	2	service	This is the place to relax and enjoy the finest quality food the industry can offer.
+158	0	place	This is the place to relax and enjoy the finest quality food the industry can offer.
+159	0	food	Caution - its real food for people who love the best.
+160	2	service	Caution - its real food for people who love the best.
+161	2	place	Caution - its real food for people who love the best.
+162	2	food	Some of the food is clearly oriented toward foodies (like me) so if your not a foodie (nothing wrong with that)- head over to McDonalds or some Ruby Tuesday and have at it!
+163	2	service	Some of the food is clearly oriented toward foodies (like me) so if your not a foodie (nothing wrong with that)- head over to McDonalds or some Ruby Tuesday and have at it!
+164	2	place	Some of the food is clearly oriented toward foodies (like me) so if your not a foodie (nothing wrong with that)- head over to McDonalds or some Ruby Tuesday and have at it!
+165	2	food	If your looking for real quality  (not the BS that is seen on yelp ratings - which allegedly recently got in trouble for "adjusting" ratings), you need to get in here!
+166	2	service	If your looking for real quality  (not the BS that is seen on yelp ratings - which allegedly recently got in trouble for "adjusting" ratings), you need to get in here!
+167	2	place	If your looking for real quality  (not the BS that is seen on yelp ratings - which allegedly recently got in trouble for "adjusting" ratings), you need to get in here!
+168	2	food	Very Disappointing
+169	2	service	Very Disappointing
+170	2	place	Very Disappointing
+171	2	food	– I took my parents here for their anniversary-very very disappointed!!!
+172	2	service	– I took my parents here for their anniversary-very very disappointed!!!
+173	2	place	– I took my parents here for their anniversary-very very disappointed!!!
+174	1	food	I liked the atmosphere very much but the food was not worth the price.
+175	2	service	I liked the atmosphere very much but the food was not worth the price.
+176	0	place	I liked the atmosphere very much but the food was not worth the price.
+177	1	food	I may not be a sushi guru but I can tell you that the food here is just okay and that there is not much else to it.
+178	2	service	I may not be a sushi guru but I can tell you that the food here is just okay and that there is not much else to it.
+179	2	place	I may not be a sushi guru but I can tell you that the food here is just okay and that there is not much else to it.
+180	1	food	Rice is too dry, tuna wasn't so fresh either.
+181	2	service	Rice is too dry, tuna wasn't so fresh either.
+182	2	place	Rice is too dry, tuna wasn't so fresh either.
+183	1	food	Nothing really came across as outstanding.
+184	2	service	Nothing really came across as outstanding.
+185	2	place	Nothing really came across as outstanding.
+186	2	food	Very disappointed.
+187	2	service	Very disappointed.
+188	2	place	Very disappointed.
+189	0	food	I have eaten here three times and have found the quality and variety of the fish to be excellent.
+190	2	service	I have eaten here three times and have found the quality and variety of the fish to be excellent.
+191	2	place	I have eaten here three times and have found the quality and variety of the fish to be excellent.
+192	2	food	However, the value and service are both severely lacking.
+193	1	service	However, the value and service are both severely lacking.
+194	2	place	However, the value and service are both severely lacking.
+195	2	food	Portions contain less fish than one would expect, particularly since prices are in line with the best sushi places in NYC (Masa excluded, of course).
+196	2	service	Portions contain less fish than one would expect, particularly since prices are in line with the best sushi places in NYC (Masa excluded, of course).
+197	2	place	Portions contain less fish than one would expect, particularly since prices are in line with the best sushi places in NYC (Masa excluded, of course).
+198	1	food	Furthermore, while the fish is unquestionably fresh, rolls tend to be inexplicably bland.
+199	2	service	Furthermore, while the fish is unquestionably fresh, rolls tend to be inexplicably bland.
+200	2	place	Furthermore, while the fish is unquestionably fresh, rolls tend to be inexplicably bland.
+201	2	food	The service ranges from mediocre to offensive.
+202	1	service	The service ranges from mediocre to offensive.
+203	2	place	The service ranges from mediocre to offensive.
+204	2	food	On a recent trip, our waiter was extremely dismissive, while no less than three staff members waited hand-and-foot on a pair of Japanese girls seated nearby.
+205	1	service	On a recent trip, our waiter was extremely dismissive, while no less than three staff members waited hand-and-foot on a pair of Japanese girls seated nearby.
+206	2	place	On a recent trip, our waiter was extremely dismissive, while no less than three staff members waited hand-and-foot on a pair of Japanese girls seated nearby.
+207	2	food	We were then charged for their most expensive sake ($20+ per serving) when we in fact drank a sake of less than half that price.
+208	1	service	We were then charged for their most expensive sake ($20+ per serving) when we in fact drank a sake of less than half that price.
+209	2	place	We were then charged for their most expensive sake ($20+ per serving) when we in fact drank a sake of less than half that price.
+210	2	food	But Im sure this was just an honest mistake...
+211	2	service	But Im sure this was just an honest mistake...
+212	2	place	But Im sure this was just an honest mistake...
+213	0	food	Freshest sushi  – I love this restaurant.
+214	2	service	Freshest sushi  – I love this restaurant.
+215	2	place	Freshest sushi  – I love this restaurant.
+216	0	food	They pay such detail to everything from miso soup to complex rolls.
+217	2	service	They pay such detail to everything from miso soup to complex rolls.
+218	2	place	They pay such detail to everything from miso soup to complex rolls.
+219	0	food	The sashimi was the freshest and most tender I have ever tasted.
+220	2	service	The sashimi was the freshest and most tender I have ever tasted.
+221	2	place	The sashimi was the freshest and most tender I have ever tasted.
+222	0	food	Their apps are all delicious.
+223	2	service	Their apps are all delicious.
+224	2	place	Their apps are all delicious.
+225	1	food	The only drawback is that this place is really expensive and the portions are on the small side.
+226	2	service	The only drawback is that this place is really expensive and the portions are on the small side.
+227	2	place	The only drawback is that this place is really expensive and the portions are on the small side.
+228	2	food	But the space is small and lovely, and the service is helpful.
+229	0	service	But the space is small and lovely, and the service is helpful.
+230	0	place	But the space is small and lovely, and the service is helpful.
+231	2	food	You are bound to have a very charming time.
+232	2	service	You are bound to have a very charming time.
+233	2	place	You are bound to have a very charming time.
+234	2	food	Not recommanded!!!
+235	2	service	Not recommanded!!!
+236	2	place	Not recommanded!!!
+237	1	food	– The food was not great & the waiters were rude.
+238	1	service	– The food was not great & the waiters were rude.
+239	2	place	– The food was not great & the waiters were rude.
+240	2	food	It is not worth going at all and spend your money there!!!
+241	2	service	It is not worth going at all and spend your money there!!!
+242	2	place	It is not worth going at all and spend your money there!!!
+243	2	food	great service
+244	0	service	great service
+245	2	place	great service
+246	2	food	– Pretty cheap for sit down Mexican AND downtown.
+247	2	service	– Pretty cheap for sit down Mexican AND downtown.
+248	0	place	– Pretty cheap for sit down Mexican AND downtown.
+249	2	food	my service was stellar!
+250	0	service	my service was stellar!
+251	2	place	my service was stellar!
+252	2	food	the bus boy even spotted that my table was shaking a stabilized it for me.
+253	0	service	the bus boy even spotted that my table was shaking a stabilized it for me.
+254	2	place	the bus boy even spotted that my table was shaking a stabilized it for me.
+255	0	food	food was fine, with a some little-tastier-than-normal salsa.
+256	2	service	food was fine, with a some little-tastier-than-normal salsa.
+257	2	place	food was fine, with a some little-tastier-than-normal salsa.
+258	2	food	If you're in the area you shouldn't be disappointed.
+259	2	service	If you're in the area you shouldn't be disappointed.
+260	2	place	If you're in the area you shouldn't be disappointed.
+261	2	food	Ok.... – Maybe I went in on someone's bad day....
+262	2	service	Ok.... – Maybe I went in on someone's bad day....
+263	2	place	Ok.... – Maybe I went in on someone's bad day....
+264	0	food	the food was great, the margaritas too but the waitress was too busy being nice to her other larger party than to take better care of my friend and me.
+265	1	service	the food was great, the margaritas too but the waitress was too busy being nice to her other larger party than to take better care of my friend and me.
+266	2	place	the food was great, the margaritas too but the waitress was too busy being nice to her other larger party than to take better care of my friend and me.
+267	2	food	Took forever to get our order taken, water refills were too much to ask for and the only time she was fast was when we asked for our bill when we could get her attention.
+268	1	service	Took forever to get our order taken, water refills were too much to ask for and the only time she was fast was when we asked for our bill when we could get her attention.
+269	2	place	Took forever to get our order taken, water refills were too much to ask for and the only time she was fast was when we asked for our bill when we could get her attention.
+270	2	food	I don't know if I'll be back....
+271	2	service	I don't know if I'll be back....
+272	2	place	I don't know if I'll be back....
+273	2	food	Mama Mia – I live in the neighborhood and feel lucky to live by such a great pizza place.
+274	2	service	Mama Mia – I live in the neighborhood and feel lucky to live by such a great pizza place.
+275	2	place	Mama Mia – I live in the neighborhood and feel lucky to live by such a great pizza place.
+276	1	food	the only problem is you really have to warm up the pizza before it's edible, even when you order ahead.
+277	2	service	the only problem is you really have to warm up the pizza before it's edible, even when you order ahead.
+278	2	place	the only problem is you really have to warm up the pizza before it's edible, even when you order ahead.
+279	0	food	BUt once done, it's not too much dough, not too much cheese, not too much sauce.
+280	2	service	BUt once done, it's not too much dough, not too much cheese, not too much sauce.
+281	2	place	BUt once done, it's not too much dough, not too much cheese, not too much sauce.
+282	0	food	Best Sushi in town.
+283	2	service	Best Sushi in town.
+284	2	place	Best Sushi in town.
+285	2	food	Have gone to all the top places.
+286	2	service	Have gone to all the top places.
+287	2	place	Have gone to all the top places.
+288	0	food	Everything you want and more, very fresh.
+289	2	service	Everything you want and more, very fresh.
+290	2	place	Everything you want and more, very fresh.
+291	2	food	Its worth the wait, especially since they'll give you a call when the table is ready.
+292	0	service	Its worth the wait, especially since they'll give you a call when the table is ready.
+293	2	place	Its worth the wait, especially since they'll give you a call when the table is ready.
+294	0	food	The best calamari in Seattle!
+295	2	service	The best calamari in Seattle!
+296	2	place	The best calamari in Seattle!
+297	2	food	– ...and the best summertime deck experience--they will even bring you a blanket if you get cold in the Seattle evening weather.
+298	0	service	– ...and the best summertime deck experience--they will even bring you a blanket if you get cold in the Seattle evening weather.
+299	0	place	– ...and the best summertime deck experience--they will even bring you a blanket if you get cold in the Seattle evening weather.
+300	2	food	A perfect place to take out of town guests any time of the year.
+301	2	service	A perfect place to take out of town guests any time of the year.
+302	2	place	A perfect place to take out of town guests any time of the year.
+303	2	food	Endless fun, awesome music, great staff!!!
+304	0	service	Endless fun, awesome music, great staff!!!
+305	0	place	Endless fun, awesome music, great staff!!!
+306	2	food	– By far the best bar in the east village...
+307	2	service	– By far the best bar in the east village...
+308	2	place	– By far the best bar in the east village...
+309	2	food	I went there with some friends one night to play bingo and watch the sox game and it was a blast!
+310	2	service	I went there with some friends one night to play bingo and watch the sox game and it was a blast!
+311	2	place	I went there with some friends one night to play bingo and watch the sox game and it was a blast!
+312	2	food	Every time "0-sixtynine" is called the bartender buys everyone drinks!
+313	0	service	Every time "0-sixtynine" is called the bartender buys everyone drinks!
+314	2	place	Every time "0-sixtynine" is called the bartender buys everyone drinks!
+315	2	food	Been there lots since and its always a good time.
+316	2	service	Been there lots since and its always a good time.
+317	2	place	Been there lots since and its always a good time.
+318	0	food	Great draft and bottle selection and the pizza rocks.
+319	2	service	Great draft and bottle selection and the pizza rocks.
+320	2	place	Great draft and bottle selection and the pizza rocks.
+321	2	food	Definitely has one of the best jukebox's i've seen in a long long time.
+322	2	service	Definitely has one of the best jukebox's i've seen in a long long time.
+323	0	place	Definitely has one of the best jukebox's i've seen in a long long time.
+324	2	food	I FOUND A NEW HOME ON SECOND AVENUE!!!!!!!!!!!!
+325	2	service	I FOUND A NEW HOME ON SECOND AVENUE!!!!!!!!!!!!
+326	2	place	I FOUND A NEW HOME ON SECOND AVENUE!!!!!!!!!!!!
+327	2	food	– Where can I begin.
+328	2	service	– Where can I begin.
+329	2	place	– Where can I begin.
+330	2	food	I can't!!!
+331	2	service	I can't!!!
+332	2	place	I can't!!!
+333	2	food	Just go there and see for yourself.
+334	2	service	Just go there and see for yourself.
+335	2	place	Just go there and see for yourself.
+336	0	food	The food is great, the bartenders go that extra mile.
+337	0	service	The food is great, the bartenders go that extra mile.
+338	2	place	The food is great, the bartenders go that extra mile.
+339	2	food	You need to watch your game, they will have it on for you.
+340	0	service	You need to watch your game, they will have it on for you.
+341	2	place	You need to watch your game, they will have it on for you.
+342	0	food	The owners are great fun and the beer selection is worth staying for.
+343	0	service	The owners are great fun and the beer selection is worth staying for.
+344	2	place	The owners are great fun and the beer selection is worth staying for.
+345	2	food	And the upstairs is a great place to hang out.
+346	2	service	And the upstairs is a great place to hang out.
+347	0	place	And the upstairs is a great place to hang out.
+348	2	food	Not alot of smoking places left in New York, but I have found my favorite smoking balconey in the city.
+349	2	service	Not alot of smoking places left in New York, but I have found my favorite smoking balconey in the city.
+350	2	place	Not alot of smoking places left in New York, but I have found my favorite smoking balconey in the city.
+351	2	food	Kudos to these guys.
+352	2	service	Kudos to these guys.
+353	2	place	Kudos to these guys.
+354	2	food	I found a new home and just moved with a long lease.
+355	2	service	I found a new home and just moved with a long lease.
+356	2	place	I found a new home and just moved with a long lease.
+357	2	food	Thank you
+358	2	service	Thank you
+359	2	place	Thank you
+360	2	food	Go Beyond the California Rolls... 
+361	2	service	Go Beyond the California Rolls... 
+362	2	place	Go Beyond the California Rolls... 
+363	0	food	The sushi here is delicious!
+364	2	service	The sushi here is delicious!
+365	2	place	The sushi here is delicious!
+366	0	food	They have a wide variety of fish and they even list which oceans they come from; Atlantic or Pacific.
+367	2	service	They have a wide variety of fish and they even list which oceans they come from; Atlantic or Pacific.
+368	2	place	They have a wide variety of fish and they even list which oceans they come from; Atlantic or Pacific.
+369	0	food	I've had the Jellyfish, Horse Mackerel, Blue Fin Tuna and the Sake Ikura roll among others, and they were all good.
+370	2	service	I've had the Jellyfish, Horse Mackerel, Blue Fin Tuna and the Sake Ikura roll among others, and they were all good.
+371	2	place	I've had the Jellyfish, Horse Mackerel, Blue Fin Tuna and the Sake Ikura roll among others, and they were all good.
+372	1	food	My only negative comment is that I wish the pieces were a little bigger.
+373	2	service	My only negative comment is that I wish the pieces were a little bigger.
+374	2	place	My only negative comment is that I wish the pieces were a little bigger.
+375	2	food	The decor is rustic, traditional Japanese.
+376	2	service	The decor is rustic, traditional Japanese.
+377	2	place	The decor is rustic, traditional Japanese.
+378	2	food	The crowd is mixed yuppies, young and old.
+379	2	service	The crowd is mixed yuppies, young and old.
+380	2	place	The crowd is mixed yuppies, young and old.
+381	2	food	The service was courteous and attentive.
+382	0	service	The service was courteous and attentive.
+383	2	place	The service was courteous and attentive.
+384	2	food	Mediocre food
+385	2	service	Mediocre food
+386	2	place	Mediocre food
+387	2	food	– We ate on the outside patio area for dinner on a Saturday night.
+388	2	service	– We ate on the outside patio area for dinner on a Saturday night.
+389	2	place	– We ate on the outside patio area for dinner on a Saturday night.
+390	2	food	The outside patio area has an abbreviated menu.
+391	2	service	The outside patio area has an abbreviated menu.
+392	2	place	The outside patio area has an abbreviated menu.
+393	2	food	We ordered the marinated grapes, buffalo style chicken wings, and the turkey sandwich.
+394	2	service	We ordered the marinated grapes, buffalo style chicken wings, and the turkey sandwich.
+395	2	place	We ordered the marinated grapes, buffalo style chicken wings, and the turkey sandwich.
+396	1	food	My g/f and I both agreed the food was very mediocre especially considering the price.
+397	2	service	My g/f and I both agreed the food was very mediocre especially considering the price.
+398	2	place	My g/f and I both agreed the food was very mediocre especially considering the price.
+399	1	food	We are locals, and get the feeling the only way this place survives with such average food is because most customers are probably one-time customer tourists.
+400	2	service	We are locals, and get the feeling the only way this place survives with such average food is because most customers are probably one-time customer tourists.
+401	2	place	We are locals, and get the feeling the only way this place survives with such average food is because most customers are probably one-time customer tourists.
+402	2	food	Service was decent.
+403	2	service	Service was decent.
+404	2	place	Service was decent.
+405	0	food	Drinks were good.
+406	2	service	Drinks were good.
+407	2	place	Drinks were good.
+408	0	food	Unless you are just stopping in for a few drinks I wouldn't recommend going here.
+409	2	service	Unless you are just stopping in for a few drinks I wouldn't recommend going here.
+410	2	place	Unless you are just stopping in for a few drinks I wouldn't recommend going here.
+411	2	food	You are likely to be disappointed.
+412	2	service	You are likely to be disappointed.
+413	2	place	You are likely to be disappointed.
+414	0	food	Excellent food, nice ambience, fairly expensive
+415	2	service	Excellent food, nice ambience, fairly expensive
+416	0	place	Excellent food, nice ambience, fairly expensive
+417	0	food	– I loved the pumpkin ravioli and the goat cheese gnocchi (5 big ones to a plate instead of 20 or so little gnocchis) and my sister loved her filet mignon on top of spinach and mashed potatoes.
+418	2	service	– I loved the pumpkin ravioli and the goat cheese gnocchi (5 big ones to a plate instead of 20 or so little gnocchis) and my sister loved her filet mignon on top of spinach and mashed potatoes.
+419	2	place	– I loved the pumpkin ravioli and the goat cheese gnocchi (5 big ones to a plate instead of 20 or so little gnocchis) and my sister loved her filet mignon on top of spinach and mashed potatoes.
+420	2	food	The ambiance was a peaceful and relaxing break amongst all the kids running around in Downtown Disney.
+421	2	service	The ambiance was a peaceful and relaxing break amongst all the kids running around in Downtown Disney.
+422	0	place	The ambiance was a peaceful and relaxing break amongst all the kids running around in Downtown Disney.
+423	2	food	It was romantic - and even nice even with my sister, reminded me of Italy, and had artwork and music that kept up the feeling of being in a Mediterrean villa.
+424	2	service	It was romantic - and even nice even with my sister, reminded me of Italy, and had artwork and music that kept up the feeling of being in a Mediterrean villa.
+425	0	place	It was romantic - and even nice even with my sister, reminded me of Italy, and had artwork and music that kept up the feeling of being in a Mediterrean villa.
+426	2	food	I recommend it for a night when you want to splurge! (it was a bit expensive)
+427	2	service	I recommend it for a night when you want to splurge! (it was a bit expensive)
+428	2	place	I recommend it for a night when you want to splurge! (it was a bit expensive)
+429	0	food	Best Indian food in L.A.
+430	2	service	Best Indian food in L.A.
+431	2	place	Best Indian food in L.A.
+432	2	food	– I've been to over a dozen Indian places in L.A., and this is still my favorite.
+433	2	service	– I've been to over a dozen Indian places in L.A., and this is still my favorite.
+434	2	place	– I've been to over a dozen Indian places in L.A., and this is still my favorite.
+435	2	food	The best thing is, the prices are also quite reasonable.
+436	2	service	The best thing is, the prices are also quite reasonable.
+437	2	place	The best thing is, the prices are also quite reasonable.
+438	0	food	The chicken curry and chicken tikka masala are my favorite meat dishes.
+439	2	service	The chicken curry and chicken tikka masala are my favorite meat dishes.
+440	2	place	The chicken curry and chicken tikka masala are my favorite meat dishes.
+441	0	food	The chana masala (garbanzo beans) are also excellent.
+442	2	service	The chana masala (garbanzo beans) are also excellent.
+443	2	place	The chana masala (garbanzo beans) are also excellent.
+444	0	food	It's located in a strip mall near the Beverly Center, not the greatest location, but the food keeps me coming back for more.
+445	2	service	It's located in a strip mall near the Beverly Center, not the greatest location, but the food keeps me coming back for more.
+446	2	place	It's located in a strip mall near the Beverly Center, not the greatest location, but the food keeps me coming back for more.
+447	2	food	hidden little jem
+448	2	service	hidden little jem
+449	2	place	hidden little jem
+450	2	food	– tucked away over by the Beverly Center.
+451	2	service	– tucked away over by the Beverly Center.
+452	2	place	– tucked away over by the Beverly Center.
+453	2	food	Never too crowded and always great service.
+454	0	service	Never too crowded and always great service.
+455	2	place	Never too crowded and always great service.
+456	0	food	I think I have probably tried each item on their menu at least once it is all excellent.
+457	2	service	I think I have probably tried each item on their menu at least once it is all excellent.
+458	2	place	I think I have probably tried each item on their menu at least once it is all excellent.
+459	0	food	I can highly recommend their various saag and paneer and korma.
+460	2	service	I can highly recommend their various saag and paneer and korma.
+461	2	place	I can highly recommend their various saag and paneer and korma.
+462	2	food	You routinely see Indian families and friends dining there, which is always a good sign.
+463	2	service	You routinely see Indian families and friends dining there, which is always a good sign.
+464	2	place	You routinely see Indian families and friends dining there, which is always a good sign.
+465	2	food	I appreciate their delivery too.
+466	0	service	I appreciate their delivery too.
+467	2	place	I appreciate their delivery too.
+468	1	food	Nice food but no spice!
+469	2	service	Nice food but no spice!
+470	2	place	Nice food but no spice!
+471	0	food	– I really enjoyed my meal here.
+472	2	service	– I really enjoyed my meal here.
+473	2	place	– I really enjoyed my meal here.
+474	0	food	I had yummy lamb korma, saag paneer, samosas, naan, etc.
+475	2	service	I had yummy lamb korma, saag paneer, samosas, naan, etc.
+476	2	place	I had yummy lamb korma, saag paneer, samosas, naan, etc.
+477	1	food	The food was all good but it was way too mild.
+478	2	service	The food was all good but it was way too mild.
+479	2	place	The food was all good but it was way too mild.
+480	2	food	Normally, places ask how hot you want it, but they didn't.
+481	1	service	Normally, places ask how hot you want it, but they didn't.
+482	2	place	Normally, places ask how hot you want it, but they didn't.
+483	1	food	I should have thought to bring it up but never expected the food to be that mild.
+484	2	service	I should have thought to bring it up but never expected the food to be that mild.
+485	2	place	I should have thought to bring it up but never expected the food to be that mild.
+486	2	food	I will give them another chance and make sure to tell them to kick it up several notches.
+487	2	service	I will give them another chance and make sure to tell them to kick it up several notches.
+488	2	place	I will give them another chance and make sure to tell them to kick it up several notches.
+489	0	food	The naan was some of the best I've had and I really enjoyed the bhartha, not too tomatoey.
+490	2	service	The naan was some of the best I've had and I really enjoyed the bhartha, not too tomatoey.
+491	2	place	The naan was some of the best I've had and I really enjoyed the bhartha, not too tomatoey.
+492	0	food	Even the chickpeas, which I normally find too dry, were good.
+493	2	service	Even the chickpeas, which I normally find too dry, were good.
+494	2	place	Even the chickpeas, which I normally find too dry, were good.
+495	2	food	And they packaged everything nicely so it didn't spill.
+496	0	service	And they packaged everything nicely so it didn't spill.
+497	2	place	And they packaged everything nicely so it didn't spill.
+498	2	food	awesome find
+499	2	service	awesome find
+500	2	place	awesome find
+501	0	food	– I don't understand how I was a stranger to this place for so long... the fajita salad, the colorado, the fajitas - EVERYTHING is delicious.
+502	2	service	– I don't understand how I was a stranger to this place for so long... the fajita salad, the colorado, the fajitas - EVERYTHING is delicious.
+503	2	place	– I don't understand how I was a stranger to this place for so long... the fajita salad, the colorado, the fajitas - EVERYTHING is delicious.
+504	2	food	I love the warm & cosy environment.
+505	2	service	I love the warm & cosy environment.
+506	0	place	I love the warm & cosy environment.
+507	2	food	I just found out that you can have the place to yourself on nights and weekends for a private party - can't wait to celebrate my next birthday there.
+508	2	service	I just found out that you can have the place to yourself on nights and weekends for a private party - can't wait to celebrate my next birthday there.
+509	2	place	I just found out that you can have the place to yourself on nights and weekends for a private party - can't wait to celebrate my next birthday there.
+510	2	food	best restaurant in the world, great decor, great customer service, friendly manager
+511	0	service	best restaurant in the world, great decor, great customer service, friendly manager
+512	0	place	best restaurant in the world, great decor, great customer service, friendly manager
+513	2	food	– first of all henrymillionare you dont know a thing about middle eastern food so dont talk.
+514	2	service	– first of all henrymillionare you dont know a thing about middle eastern food so dont talk.
+515	2	place	– first of all henrymillionare you dont know a thing about middle eastern food so dont talk.
+516	2	food	Cry me a river, stop complaining you obviously you have no taste in food.
+517	2	service	Cry me a river, stop complaining you obviously you have no taste in food.
+518	2	place	Cry me a river, stop complaining you obviously you have no taste in food.
+519	0	food	i am never disappointed with there food.
+520	2	service	i am never disappointed with there food.
+521	2	place	i am never disappointed with there food.
+522	2	food	the atmosphere is great.
+523	2	service	the atmosphere is great.
+524	0	place	the atmosphere is great.
+525	2	food	and all you other people that have a problem get some help
+526	2	service	and all you other people that have a problem get some help
+527	2	place	and all you other people that have a problem get some help
+528	2	food	great lunch spot
+529	2	service	great lunch spot
+530	2	place	great lunch spot
+531	2	food	– Great financial district mexican spot.
+532	2	service	– Great financial district mexican spot.
+533	2	place	– Great financial district mexican spot.
+534	2	food	Always busy, but they are good at seating you promptly and have quick service.
+535	0	service	Always busy, but they are good at seating you promptly and have quick service.
+536	2	place	Always busy, but they are good at seating you promptly and have quick service.
+537	0	food	Everything I've had here is good, taco salads, burritos, enchiladas i love this place.
+538	2	service	Everything I've had here is good, taco salads, burritos, enchiladas i love this place.
+539	2	place	Everything I've had here is good, taco salads, burritos, enchiladas i love this place.
+540	0	food	Also have great margaritas!
+541	2	service	Also have great margaritas!
+542	2	place	Also have great margaritas!
+543	2	food	You can order to go if you have to get back to the office too!
+544	0	service	You can order to go if you have to get back to the office too!
+545	2	place	You can order to go if you have to get back to the office too!
+546	0	food	Lebanese Food!Yum!
+547	2	service	Lebanese Food!Yum!
+548	2	place	Lebanese Food!Yum!
+549	2	food	– I've been to Open Sesame only once, but I'm still reeling from the experience!!
+550	2	service	– I've been to Open Sesame only once, but I'm still reeling from the experience!!
+551	2	place	– I've been to Open Sesame only once, but I'm still reeling from the experience!!
+552	0	food	The food is simply unforgettable!
+553	2	service	The food is simply unforgettable!
+554	2	place	The food is simply unforgettable!
+555	2	food	I had the beef kabobs with a side of cucumber yogurt.
+556	2	service	I had the beef kabobs with a side of cucumber yogurt.
+557	2	place	I had the beef kabobs with a side of cucumber yogurt.
+558	0	food	The presentation of the food was an added bonus, it looked just as great as it tasted!
+559	2	service	The presentation of the food was an added bonus, it looked just as great as it tasted!
+560	2	place	The presentation of the food was an added bonus, it looked just as great as it tasted!
+561	0	food	My best friend had the chicken shawarma and she STILL raves about it being the best anywhere!
+562	2	service	My best friend had the chicken shawarma and she STILL raves about it being the best anywhere!
+563	2	place	My best friend had the chicken shawarma and she STILL raves about it being the best anywhere!
+564	2	food	Her sister had the baklava for dessert!
+565	2	service	Her sister had the baklava for dessert!
+566	2	place	Her sister had the baklava for dessert!
+567	0	food	What a tastly, flaky treat!
+568	2	service	What a tastly, flaky treat!
+569	2	place	What a tastly, flaky treat!
+570	2	food	The staff are friendly and the decor was ethic and colorful.
+571	0	service	The staff are friendly and the decor was ethic and colorful.
+572	0	place	The staff are friendly and the decor was ethic and colorful.
+573	2	food	GO TO OPEN SESAME!!!
+574	2	service	GO TO OPEN SESAME!!!
+575	2	place	GO TO OPEN SESAME!!!
+576	0	food	Holy Hummus!
+577	2	service	Holy Hummus!
+578	2	place	Holy Hummus!
+579	1	food	– The food is here is incredible, though the quality is inconsistent during lunch.
+580	2	service	– The food is here is incredible, though the quality is inconsistent during lunch.
+581	2	place	– The food is here is incredible, though the quality is inconsistent during lunch.
+582	0	food	Dinners have always been excellent, in terms of food quality.
+583	2	service	Dinners have always been excellent, in terms of food quality.
+584	2	place	Dinners have always been excellent, in terms of food quality.
+585	0	food	The open sesame combo plate is a bargain for the heap of food given.
+586	2	service	The open sesame combo plate is a bargain for the heap of food given.
+587	2	place	The open sesame combo plate is a bargain for the heap of food given.
+588	0	food	The side of potatoes is to die for, as is the labne (yogurt dip).
+589	2	service	The side of potatoes is to die for, as is the labne (yogurt dip).
+590	2	place	The side of potatoes is to die for, as is the labne (yogurt dip).
+591	0	food	Also, they serve THE best hummus in America, with a drizzle of fragrant olive oil (which, I believe is the traditional way)!
+592	2	service	Also, they serve THE best hummus in America, with a drizzle of fragrant olive oil (which, I believe is the traditional way)!
+593	2	place	Also, they serve THE best hummus in America, with a drizzle of fragrant olive oil (which, I believe is the traditional way)!
+594	2	food	The only drawback is the crowded seating and the slow service.
+595	1	service	The only drawback is the crowded seating and the slow service.
+596	2	place	The only drawback is the crowded seating and the slow service.
+597	2	food	There have been several occasions when we've just not gotten some side dishes we've ordered.
+598	1	service	There have been several occasions when we've just not gotten some side dishes we've ordered.
+599	2	place	There have been several occasions when we've just not gotten some side dishes we've ordered.
+600	2	food	However, this place is a gem, and I won't stop going back.
+601	2	service	However, this place is a gem, and I won't stop going back.
+602	2	place	However, this place is a gem, and I won't stop going back.
+603	0	food	great beer
+604	2	service	great beer
+605	2	place	great beer
+606	2	food	– My first time to dine at this restaurant was with my son and it was absolutely horrible!
+607	2	service	– My first time to dine at this restaurant was with my son and it was absolutely horrible!
+608	2	place	– My first time to dine at this restaurant was with my son and it was absolutely horrible!
+609	2	food	We waited over 30 minutes for our drinks and over 1 1/2 hours for our food.
+610	1	service	We waited over 30 minutes for our drinks and over 1 1/2 hours for our food.
+611	2	place	We waited over 30 minutes for our drinks and over 1 1/2 hours for our food.
+612	1	food	I swore never to return for a warm beer and mediocre meal.
+613	2	service	I swore never to return for a warm beer and mediocre meal.
+614	2	place	I swore never to return for a warm beer and mediocre meal.
+615	2	food	HOWEVER, one Sunday afternoon my husband and I did go (although with my loud protests) and were pleasantly surprised.
+616	2	service	HOWEVER, one Sunday afternoon my husband and I did go (although with my loud protests) and were pleasantly surprised.
+617	2	place	HOWEVER, one Sunday afternoon my husband and I did go (although with my loud protests) and were pleasantly surprised.
+618	2	food	The band was very good and the service was attentive.
+619	0	service	The band was very good and the service was attentive.
+620	0	place	The band was very good and the service was attentive.
+621	2	food	Outside in the area between the restaurant and the park, children were running around while their parents sipped wine.
+622	2	service	Outside in the area between the restaurant and the park, children were running around while their parents sipped wine.
+623	2	place	Outside in the area between the restaurant and the park, children were running around while their parents sipped wine.
+624	0	food	We ordered a selection of the small plates, and the shoe string onions, goat cheese pizza, grilled asparagus and fried brie with fruit were all very good.
+625	2	service	We ordered a selection of the small plates, and the shoe string onions, goat cheese pizza, grilled asparagus and fried brie with fruit were all very good.
+626	2	place	We ordered a selection of the small plates, and the shoe string onions, goat cheese pizza, grilled asparagus and fried brie with fruit were all very good.
+627	2	food	It was like dining at a completely different restaurant.
+628	2	service	It was like dining at a completely different restaurant.
+629	2	place	It was like dining at a completely different restaurant.
+630	0	food	We have since returned and also had a great experience, sampling more small plates and a variety of the beer ( cold and good).
+631	2	service	We have since returned and also had a great experience, sampling more small plates and a variety of the beer ( cold and good).
+632	2	place	We have since returned and also had a great experience, sampling more small plates and a variety of the beer ( cold and good).
+633	2	food	We did have the same waiter the second time, so maybe the service is spotty and our luck is good.
+634	0	service	We did have the same waiter the second time, so maybe the service is spotty and our luck is good.
+635	2	place	We did have the same waiter the second time, so maybe the service is spotty and our luck is good.
+636	2	food	Sunday afternoons there is a band playing and it is lots of fun.
+637	2	service	Sunday afternoons there is a band playing and it is lots of fun.
+638	0	place	Sunday afternoons there is a band playing and it is lots of fun.
+639	0	food	Seattle's BEST Winelist
+640	2	service	Seattle's BEST Winelist
+641	2	place	Seattle's BEST Winelist
+642	0	food	– Ray's (suprisingly) has the city's BEST & most diverse wine list.
+643	2	service	– Ray's (suprisingly) has the city's BEST & most diverse wine list.
+644	2	place	– Ray's (suprisingly) has the city's BEST & most diverse wine list.
+645	2	food	The sommelier is fantastic, down-to-earth, & extremely knowlegable.
+646	0	service	The sommelier is fantastic, down-to-earth, & extremely knowlegable.
+647	2	place	The sommelier is fantastic, down-to-earth, & extremely knowlegable.
+648	0	food	I would go back for the wine experience alone.
+649	2	service	I would go back for the wine experience alone.
+650	2	place	I would go back for the wine experience alone.
+651	2	food	Nice job!
+652	2	service	Nice job!
+653	2	place	Nice job!
+654	2	food	NOT THE PLACE IT ONCE WAS
+655	2	service	NOT THE PLACE IT ONCE WAS
+656	2	place	NOT THE PLACE IT ONCE WAS
+657	2	food	– It is sad to see a place that was once "THE" place to meet and eat for Bfast or Lunch, now be the place that is a big "DONT BOTHER."
+658	2	service	– It is sad to see a place that was once "THE" place to meet and eat for Bfast or Lunch, now be the place that is a big "DONT BOTHER."
+659	2	place	– It is sad to see a place that was once "THE" place to meet and eat for Bfast or Lunch, now be the place that is a big "DONT BOTHER."
+660	1	food	The food is not what it once was (potions have seriously seen downsizing) prices have gone up, and the service is the worst I have experienced anywhere (including mainland Europe).
+661	1	service	The food is not what it once was (potions have seriously seen downsizing) prices have gone up, and the service is the worst I have experienced anywhere (including mainland Europe).
+662	2	place	The food is not what it once was (potions have seriously seen downsizing) prices have gone up, and the service is the worst I have experienced anywhere (including mainland Europe).
+663	2	food	What may be interesting to most is the worst sevice/attitude comes from the owners of this establishment.
+664	1	service	What may be interesting to most is the worst sevice/attitude comes from the owners of this establishment.
+665	2	place	What may be interesting to most is the worst sevice/attitude comes from the owners of this establishment.
+666	2	food	This establishment really made a marked decline after ( and this is recurring story ) the airing of FOOD TELEVISIONS "DINERS, DRIVE-INS, AND DIVES" hosted by Guy Fieri, in which Schooner or Later was subject of.
+667	2	service	This establishment really made a marked decline after ( and this is recurring story ) the airing of FOOD TELEVISIONS "DINERS, DRIVE-INS, AND DIVES" hosted by Guy Fieri, in which Schooner or Later was subject of.
+668	2	place	This establishment really made a marked decline after ( and this is recurring story ) the airing of FOOD TELEVISIONS "DINERS, DRIVE-INS, AND DIVES" hosted by Guy Fieri, in which Schooner or Later was subject of.
+669	2	food	Perhaps now, Scooner or Later falls into the "Dive" category.
+670	2	service	Perhaps now, Scooner or Later falls into the "Dive" category.
+671	2	place	Perhaps now, Scooner or Later falls into the "Dive" category.
+672	2	food	This is sad for what once was one of the best places you could ever eat.
+673	2	service	This is sad for what once was one of the best places you could ever eat.
+674	2	place	This is sad for what once was one of the best places you could ever eat.
+675	2	food	I hope one day Scooner or Later returns to what it once was.
+676	2	service	I hope one day Scooner or Later returns to what it once was.
+677	2	place	I hope one day Scooner or Later returns to what it once was.
+678	2	food	Untill this happens, my advice is to STAY AWAY.
+679	2	service	Untill this happens, my advice is to STAY AWAY.
+680	2	place	Untill this happens, my advice is to STAY AWAY.
+681	0	food	Open & Cool Place with the Best Pizza and Coffee
+682	2	service	Open & Cool Place with the Best Pizza and Coffee
+683	0	place	Open & Cool Place with the Best Pizza and Coffee
+684	0	food	– Mioposto has a very creative & delicious pizza menu.
+685	2	service	– Mioposto has a very creative & delicious pizza menu.
+686	2	place	– Mioposto has a very creative & delicious pizza menu.
+687	0	food	The coffe is very good, too.
+688	2	service	The coffe is very good, too.
+689	2	place	The coffe is very good, too.
+690	2	food	Great open and friendly ambience.
+691	2	service	Great open and friendly ambience.
+692	0	place	Great open and friendly ambience.
+693	2	food	This place is charming and relaxing.
+694	2	service	This place is charming and relaxing.
+695	0	place	This place is charming and relaxing.
+696	2	food	The servers behind the counter are always friendly and helpful.
+697	0	service	The servers behind the counter are always friendly and helpful.
+698	2	place	The servers behind the counter are always friendly and helpful.
+699	2	food	It reminds me of those great little restaurants in San Francisco.
+700	2	service	It reminds me of those great little restaurants in San Francisco.
+701	2	place	It reminds me of those great little restaurants in San Francisco.
+702	0	food	It's a great place to enjoy food and meet friends.
+703	2	service	It's a great place to enjoy food and meet friends.
+704	2	place	It's a great place to enjoy food and meet friends.
+705	2	food	Old Reliable
+706	2	service	Old Reliable
+707	2	place	Old Reliable
+708	2	food	– After 12 years in Seattle Ray's rates as the place we always go back to.
+709	2	service	– After 12 years in Seattle Ray's rates as the place we always go back to.
+710	2	place	– After 12 years in Seattle Ray's rates as the place we always go back to.
+711	0	food	Great food, spectacular location, and friendly service keep us coming back year after year.
+712	0	service	Great food, spectacular location, and friendly service keep us coming back year after year.
+713	0	place	Great food, spectacular location, and friendly service keep us coming back year after year.
+714	0	food	Enjoyed the food
+715	2	service	Enjoyed the food
+716	2	place	Enjoyed the food
+717	2	food	– First of all, I am not from Long Beach.
+718	2	service	– First of all, I am not from Long Beach.
+719	2	place	– First of all, I am not from Long Beach.
+720	2	food	I was visiting SoCal a couple of months ago when the friend I was visiting decided to take me to this restaurant.
+721	2	service	I was visiting SoCal a couple of months ago when the friend I was visiting decided to take me to this restaurant.
+722	2	place	I was visiting SoCal a couple of months ago when the friend I was visiting decided to take me to this restaurant.
+723	2	food	(She was actually going to take me to another mediterranean restaurant right across the street but they were not open yet even though it was a few minutes past their opening time.)
+724	2	service	(She was actually going to take me to another mediterranean restaurant right across the street but they were not open yet even though it was a few minutes past their opening time.)
+725	2	place	(She was actually going to take me to another mediterranean restaurant right across the street but they were not open yet even though it was a few minutes past their opening time.)
+726	2	food	I liked it.
+727	2	service	I liked it.
+728	2	place	I liked it.
+729	0	food	Food was good and cheap.
+730	2	service	Food was good and cheap.
+731	2	place	Food was good and cheap.
+732	0	food	I had the kafta plate and I enjoyed it.
+733	2	service	I had the kafta plate and I enjoyed it.
+734	2	place	I had the kafta plate and I enjoyed it.
+735	0	food	It was so much though that I could barely finish but I did, since it was delicious.
+736	2	service	It was so much though that I could barely finish but I did, since it was delicious.
+737	2	place	It was so much though that I could barely finish but I did, since it was delicious.
+738	2	food	Atmosphere was nice.
+739	2	service	Atmosphere was nice.
+740	0	place	Atmosphere was nice.
+741	2	food	Service was kind of slow, our waitress took forever to give us our check even though it wasn't that busy.
+742	1	service	Service was kind of slow, our waitress took forever to give us our check even though it wasn't that busy.
+743	2	place	Service was kind of slow, our waitress took forever to give us our check even though it wasn't that busy.
+744	2	food	Still I would recommend this place.
+745	2	service	Still I would recommend this place.
+746	2	place	Still I would recommend this place.
+747	2	food	BTW, I really like Long Beach.
+748	2	service	BTW, I really like Long Beach.
+749	2	place	BTW, I really like Long Beach.
+750	2	food	It was one of the few places in SoCal where you would actually walk around and not have to take a car.
+751	2	service	It was one of the few places in SoCal where you would actually walk around and not have to take a car.
+752	2	place	It was one of the few places in SoCal where you would actually walk around and not have to take a car.
+753	2	food	WOW!!!!!!!!
+754	2	service	WOW!!!!!!!!
+755	2	place	WOW!!!!!!!!
+756	2	food	– IT CANT GET ANY BETTER!!!!!
+757	2	service	– IT CANT GET ANY BETTER!!!!!
+758	2	place	– IT CANT GET ANY BETTER!!!!!
+759	0	food	WHAT ELSE CAN YOU SAY NICE PEOPLE AMAZING FOOD WOW
+760	0	service	WHAT ELSE CAN YOU SAY NICE PEOPLE AMAZING FOOD WOW
+761	2	place	WHAT ELSE CAN YOU SAY NICE PEOPLE AMAZING FOOD WOW
+762	0	food	Great food with an awesome atmosphere!
+763	2	service	Great food with an awesome atmosphere!
+764	0	place	Great food with an awesome atmosphere!
+765	0	food	– Eggs, pancakes, potatoes, fresh fruit and yogurt -- everything they serve is delicious.
+766	2	service	– Eggs, pancakes, potatoes, fresh fruit and yogurt -- everything they serve is delicious.
+767	2	place	– Eggs, pancakes, potatoes, fresh fruit and yogurt -- everything they serve is delicious.
+768	2	food	The best place for a leisure Sunday breakfast amidst yachts, then take a stroll through the nearby Farmer's Market.
+769	2	service	The best place for a leisure Sunday breakfast amidst yachts, then take a stroll through the nearby Farmer's Market.
+770	2	place	The best place for a leisure Sunday breakfast amidst yachts, then take a stroll through the nearby Farmer's Market.
+771	0	food	great meal – the fish on the omikase platter was absolutely decadent -- there was none of the stringiness that sometimes accompanies fair sushi -- this fish was perfect!!!!
+772	2	service	great meal – the fish on the omikase platter was absolutely decadent -- there was none of the stringiness that sometimes accompanies fair sushi -- this fish was perfect!!!!
+773	2	place	great meal – the fish on the omikase platter was absolutely decadent -- there was none of the stringiness that sometimes accompanies fair sushi -- this fish was perfect!!!!
+774	2	food	plus, i am allergic to rice, and the waitstaff was unbelievably accomodating -- didn't even bat an eye!
+775	0	service	plus, i am allergic to rice, and the waitstaff was unbelievably accomodating -- didn't even bat an eye!
+776	2	place	plus, i am allergic to rice, and the waitstaff was unbelievably accomodating -- didn't even bat an eye!
+777	0	food	and the waiter suggested a perfect sake!!
+778	0	service	and the waiter suggested a perfect sake!!
+779	2	place	and the waiter suggested a perfect sake!!
+780	2	food	absolutely fabulous!!!
+781	2	service	absolutely fabulous!!!
+782	2	place	absolutely fabulous!!!
+783	0	food	Unbeatable sushi!
+784	2	service	Unbeatable sushi!
+785	2	place	Unbeatable sushi!
+786	0	food	Two thumbs up!
+787	2	service	Two thumbs up!
+788	2	place	Two thumbs up!
+789	2	food	I love sushi, and I have eaten it all over the world.
+790	2	service	I love sushi, and I have eaten it all over the world.
+791	2	place	I love sushi, and I have eaten it all over the world.
+792	0	food	This is right up there with places in Tokyo as far as the freshness is concerned.
+793	2	service	This is right up there with places in Tokyo as far as the freshness is concerned.
+794	2	place	This is right up there with places in Tokyo as far as the freshness is concerned.
+795	0	food	Melt in your mouth nigiri and sashmi, and very tasty rolls too.
+796	2	service	Melt in your mouth nigiri and sashmi, and very tasty rolls too.
+797	2	place	Melt in your mouth nigiri and sashmi, and very tasty rolls too.
+798	0	food	Be sure to try the oyster roll.
+799	2	service	Be sure to try the oyster roll.
+800	2	place	Be sure to try the oyster roll.
+801	2	food	splendid
+802	2	service	splendid
+803	2	place	splendid
+804	0	food	– How to describe the best sushi in NYC: hmmmm, delicious, amazing, fantastic, suculent, perfect, nah, all of the above.
+805	2	service	– How to describe the best sushi in NYC: hmmmm, delicious, amazing, fantastic, suculent, perfect, nah, all of the above.
+806	2	place	– How to describe the best sushi in NYC: hmmmm, delicious, amazing, fantastic, suculent, perfect, nah, all of the above.
+807	2	food	I can't saybenough good things about this restaurant, and I can't wait for my next several visits.
+808	2	service	I can't saybenough good things about this restaurant, and I can't wait for my next several visits.
+809	2	place	I can't saybenough good things about this restaurant, and I can't wait for my next several visits.
+810	0	food	The best Chuwam Mushi I have ever had.
+811	2	service	The best Chuwam Mushi I have ever had.
+812	2	place	The best Chuwam Mushi I have ever had.
+813	0	food	Perfect on a cold day.
+814	2	service	Perfect on a cold day.
+815	2	place	Perfect on a cold day.
+816	2	food	$6 with tip.
+817	2	service	$6 with tip.
+818	2	place	$6 with tip.
+819	2	food	Perfection.
+820	2	service	Perfection.
+821	2	place	Perfection.
+822	1	food	Good Sushi, High Price 
+823	2	service	Good Sushi, High Price 
+824	2	place	Good Sushi, High Price 
+825	2	food	One of the best Sushi place in town.
+826	2	service	One of the best Sushi place in town.
+827	2	place	One of the best Sushi place in town.
+828	0	food	The house special roll is really good.
+829	2	service	The house special roll is really good.
+830	2	place	The house special roll is really good.
+831	2	food	On weekends, you might have to wait for couple hours.
+832	2	service	On weekends, you might have to wait for couple hours.
+833	2	place	On weekends, you might have to wait for couple hours.
+834	2	food	However, they do take your cellphone numbers so that you can go hang out somewhere else till they call you up on your cellphone.
+835	0	service	However, they do take your cellphone numbers so that you can go hang out somewhere else till they call you up on your cellphone.
+836	2	place	However, they do take your cellphone numbers so that you can go hang out somewhere else till they call you up on your cellphone.
+837	2	food	A cozy spot for 2
+838	2	service	A cozy spot for 2
+839	0	place	A cozy spot for 2
+840	2	food	– I can't believe Murphy's has been around for over 25 years, amazing.
+841	2	service	– I can't believe Murphy's has been around for over 25 years, amazing.
+842	2	place	– I can't believe Murphy's has been around for over 25 years, amazing.
+843	2	food	That's a huge compliment, especially in the fickled restaurant business, ...enough already!
+844	2	service	That's a huge compliment, especially in the fickled restaurant business, ...enough already!
+845	2	place	That's a huge compliment, especially in the fickled restaurant business, ...enough already!
+846	0	food	Brunch at Murphy's is to die for, my specialty... egg white omelet, the food is always freshly prepared.
+847	2	service	Brunch at Murphy's is to die for, my specialty... egg white omelet, the food is always freshly prepared.
+848	2	place	Brunch at Murphy's is to die for, my specialty... egg white omelet, the food is always freshly prepared.
+849	2	food	It's the perfect spot for a romantic date for 2 or a secret rendezvous!
+850	2	service	It's the perfect spot for a romantic date for 2 or a secret rendezvous!
+851	0	place	It's the perfect spot for a romantic date for 2 or a secret rendezvous!
+852	0	food	Save room for  scrumptious desserts.
+853	2	service	Save room for  scrumptious desserts.
+854	2	place	Save room for  scrumptious desserts.
+855	0	food	The restaurant offers an extensive wine list and an ambiance you won't forget!
+856	2	service	The restaurant offers an extensive wine list and an ambiance you won't forget!
+857	0	place	The restaurant offers an extensive wine list and an ambiance you won't forget!
+858	2	food	I guarantee you won't be disappointed, there's also valet parking.
+859	2	service	I guarantee you won't be disappointed, there's also valet parking.
+860	2	place	I guarantee you won't be disappointed, there's also valet parking.
+861	2	food	Addicting!
+862	2	service	Addicting!
+863	2	place	Addicting!
+864	2	food	– Best Mexican place for lunch in the financial district.
+865	2	service	– Best Mexican place for lunch in the financial district.
+866	2	place	– Best Mexican place for lunch in the financial district.
+867	0	food	Love the enchiladas and chicken soup - and be sure to check out their specials.
+868	2	service	Love the enchiladas and chicken soup - and be sure to check out their specials.
+869	2	place	Love the enchiladas and chicken soup - and be sure to check out their specials.
+870	0	food	The cooks have been at the restaurant for years and cook family recipes.
+871	2	service	The cooks have been at the restaurant for years and cook family recipes.
+872	2	place	The cooks have been at the restaurant for years and cook family recipes.
+873	2	food	Can get busy on Fridays for a table but once seated, the service is so efficient you can be in and out of there quickly.
+874	0	service	Can get busy on Fridays for a table but once seated, the service is so efficient you can be in and out of there quickly.
+875	2	place	Can get busy on Fridays for a table but once seated, the service is so efficient you can be in and out of there quickly.
+876	2	food	I went there with a friend from out of town... and we were both very impressed!
+877	2	service	I went there with a friend from out of town... and we were both very impressed!
+878	2	place	I went there with a friend from out of town... and we were both very impressed!
+879	2	food	Went on a Monday night, so there was no wait for a table.
+880	2	service	Went on a Monday night, so there was no wait for a table.
+881	2	place	Went on a Monday night, so there was no wait for a table.
+882	0	food	The sushi was excellent and the wait staff was quick.
+883	0	service	The sushi was excellent and the wait staff was quick.
+884	2	place	The sushi was excellent and the wait staff was quick.
+885	2	food	The price was right too.
+886	2	service	The price was right too.
+887	2	place	The price was right too.
+888	2	food	The atmosphere was just okay.
+889	2	service	The atmosphere was just okay.
+890	2	place	The atmosphere was just okay.
+891	0	food	Space was limited, but the food made up for it.
+892	2	service	Space was limited, but the food made up for it.
+893	2	place	Space was limited, but the food made up for it.
+894	2	food	I'd go back there in a heartbeat.
+895	2	service	I'd go back there in a heartbeat.
+896	2	place	I'd go back there in a heartbeat.
+897	2	food	Should have gone to Trader Joe's and had frozen pizza :(
+898	2	service	Should have gone to Trader Joe's and had frozen pizza :(
+899	2	place	Should have gone to Trader Joe's and had frozen pizza :(
+900	2	food	– My family went on a midweek evening to have dinner.
+901	2	service	– My family went on a midweek evening to have dinner.
+902	2	place	– My family went on a midweek evening to have dinner.
+903	2	food	The restaurant was 80 % full and there was a sign posted "wait to be seated."
+904	2	service	The restaurant was 80 % full and there was a sign posted "wait to be seated."
+905	2	place	The restaurant was 80 % full and there was a sign posted "wait to be seated."
+906	2	food	Well I guess it's hard to be seated when one is invisible to the staff.
+907	1	service	Well I guess it's hard to be seated when one is invisible to the staff.
+908	2	place	Well I guess it's hard to be seated when one is invisible to the staff.
+909	2	food	We stood there for 10 minutes while employees walked back and forth ignoring us.
+910	1	service	We stood there for 10 minutes while employees walked back and forth ignoring us.
+911	2	place	We stood there for 10 minutes while employees walked back and forth ignoring us.
+912	2	food	Finally, my wife stood face to face in front of one of the staff and she asked, "Are you waiting for a table?"
+913	1	service	Finally, my wife stood face to face in front of one of the staff and she asked, "Are you waiting for a table?"
+914	2	place	Finally, my wife stood face to face in front of one of the staff and she asked, "Are you waiting for a table?"
+915	2	food	Once seated it took about 30 minutes to finally get the meal.
+916	1	service	Once seated it took about 30 minutes to finally get the meal.
+917	2	place	Once seated it took about 30 minutes to finally get the meal.
+918	2	food	The prior reviews said Kid friendly... give me a break with two young children that is light years.
+919	2	service	The prior reviews said Kid friendly... give me a break with two young children that is light years.
+920	2	place	The prior reviews said Kid friendly... give me a break with two young children that is light years.
+921	1	food	The Caesar salad I ordered had so much lemon I couldn't eat it.
+922	2	service	The Caesar salad I ordered had so much lemon I couldn't eat it.
+923	2	place	The Caesar salad I ordered had so much lemon I couldn't eat it.
+924	2	food	The pizza was slightly reminescent of Baker's Beach pizza which occupied the the space years ago (a distant second).
+925	2	service	The pizza was slightly reminescent of Baker's Beach pizza which occupied the the space years ago (a distant second).
+926	2	place	The pizza was slightly reminescent of Baker's Beach pizza which occupied the the space years ago (a distant second).
+927	2	food	It was decent but nothing exceptional.
+928	2	service	It was decent but nothing exceptional.
+929	2	place	It was decent but nothing exceptional.
+930	2	food	This establishment is consistent with my feelings of the rest of Chow Foods group.
+931	2	service	This establishment is consistent with my feelings of the rest of Chow Foods group.
+932	2	place	This establishment is consistent with my feelings of the rest of Chow Foods group.
+933	2	food	We used to frequent most of their restaurants but over the years each one has really been disapointing.
+934	2	service	We used to frequent most of their restaurants but over the years each one has really been disapointing.
+935	2	place	We used to frequent most of their restaurants but over the years each one has really been disapointing.
+936	2	food	I'm a born and bred Southend resident and was excited to hear of this restaurant opening.
+937	2	service	I'm a born and bred Southend resident and was excited to hear of this restaurant opening.
+938	2	place	I'm a born and bred Southend resident and was excited to hear of this restaurant opening.
+939	2	food	Well, I guess maybe it might be beneficial for the management  to pay a visit to Tutta Bella in Columbia City for some tips.
+940	2	service	Well, I guess maybe it might be beneficial for the management  to pay a visit to Tutta Bella in Columbia City for some tips.
+941	2	place	Well, I guess maybe it might be beneficial for the management  to pay a visit to Tutta Bella in Columbia City for some tips.
+942	0	food	Great food, better Margaritas!
+943	2	service	Great food, better Margaritas!
+944	2	place	Great food, better Margaritas!
+945	0	food	– This is one of my top lunch spots, huge portions, fast service and amazing margaritas!!
+946	0	service	– This is one of my top lunch spots, huge portions, fast service and amazing margaritas!!
+947	2	place	– This is one of my top lunch spots, huge portions, fast service and amazing margaritas!!
+948	2	food	it gets really busy, so get there on the early side so you can grab a seat, if you do have to wait, its not bad because the service is quick!
+949	0	service	it gets really busy, so get there on the early side so you can grab a seat, if you do have to wait, its not bad because the service is quick!
+950	2	place	it gets really busy, so get there on the early side so you can grab a seat, if you do have to wait, its not bad because the service is quick!
+951	2	food	Check out the art on the walls, very colorful!
+952	2	service	Check out the art on the walls, very colorful!
+953	0	place	Check out the art on the walls, very colorful!
+954	2	food	i love this place!
+955	2	service	i love this place!
+956	2	place	i love this place!
+957	0	food	– i have been eating at this place for over 8 years now and i have never had one bad meal.
+958	2	service	– i have been eating at this place for over 8 years now and i have never had one bad meal.
+959	2	place	– i have been eating at this place for over 8 years now and i have never had one bad meal.
+960	0	food	i highly recommend this place to all that want to try indain food for the first time.
+961	2	service	i highly recommend this place to all that want to try indain food for the first time.
+962	2	place	i highly recommend this place to all that want to try indain food for the first time.
+963	0	food	The lunch menu is an awesome deal!
+964	2	service	The lunch menu is an awesome deal!
+965	2	place	The lunch menu is an awesome deal!
+966	0	food	plenty of food,trust me .
+967	2	service	plenty of food,trust me .
+968	2	place	plenty of food,trust me .
+969	0	food	Fresh ingrediants and super tasty.
+970	2	service	Fresh ingrediants and super tasty.
+971	2	place	Fresh ingrediants and super tasty.
+972	0	food	The place is the next best thing to my Moms cooking.
+973	2	service	The place is the next best thing to my Moms cooking.
+974	2	place	The place is the next best thing to my Moms cooking.
+975	0	food	Best food, phenominal service 
+976	0	service	Best food, phenominal service 
+977	2	place	Best food, phenominal service 
+978	0	food	For the finicky sushi eater and those who have sampled the best NYC has to offer, the fish is the freshest and the service is superb.
+979	0	service	For the finicky sushi eater and those who have sampled the best NYC has to offer, the fish is the freshest and the service is superb.
+980	2	place	For the finicky sushi eater and those who have sampled the best NYC has to offer, the fish is the freshest and the service is superb.
+981	0	food	Not only can the selection be innovative, but there's a nice balance of traditional sushi as well.
+982	2	service	Not only can the selection be innovative, but there's a nice balance of traditional sushi as well.
+983	2	place	Not only can the selection be innovative, but there's a nice balance of traditional sushi as well.
+984	2	food	The nicest waiters in town.
+985	0	service	The nicest waiters in town.
+986	2	place	The nicest waiters in town.
+987	2	food	WAY OVER-RATED!!!!
+988	2	service	WAY OVER-RATED!!!!
+989	2	place	WAY OVER-RATED!!!!
+990	2	food	– This place is unbelievably over-rated.
+991	2	service	– This place is unbelievably over-rated.
+992	2	place	– This place is unbelievably over-rated.
+993	2	food	If I want to stand in line on Sunday for an hour to get average brunch food, then I would put Murphy's at the top of the list.
+994	1	service	If I want to stand in line on Sunday for an hour to get average brunch food, then I would put Murphy's at the top of the list.
+995	2	place	If I want to stand in line on Sunday for an hour to get average brunch food, then I would put Murphy's at the top of the list.
+996	2	food	The regular menu here is slightly above average that is not worth the snotty attitude that you receive.
+997	1	service	The regular menu here is slightly above average that is not worth the snotty attitude that you receive.
+998	2	place	The regular menu here is slightly above average that is not worth the snotty attitude that you receive.
+999	2	food	10!
+1000	2	service	10!
+1001	2	place	10!
+1002	0	food	Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.
+1003	2	service	Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.
+1004	0	place	Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.
+1005	2	food	There is only one place on the east coast that has it all, plus a lot more.
+1006	2	service	There is only one place on the east coast that has it all, plus a lot more.
+1007	2	place	There is only one place on the east coast that has it all, plus a lot more.
+1008	2	food	Better than nobu, tomoe, taka, yama, sugiyama, and the rest.
+1009	2	service	Better than nobu, tomoe, taka, yama, sugiyama, and the rest.
+1010	2	place	Better than nobu, tomoe, taka, yama, sugiyama, and the rest.
+1011	2	food	Bring your cell phone cause you may have to wait to get into the best sushi restaurant in the world: BLUE RIBBON SUSHI.
+1012	2	service	Bring your cell phone cause you may have to wait to get into the best sushi restaurant in the world: BLUE RIBBON SUSHI.
+1013	2	place	Bring your cell phone cause you may have to wait to get into the best sushi restaurant in the world: BLUE RIBBON SUSHI.
+1014	2	food	Believe it baby!
+1015	2	service	Believe it baby!
+1016	2	place	Believe it baby!
+1017	2	food	Cut to the chase - this is amazing!
+1018	2	service	Cut to the chase - this is amazing!
+1019	2	place	Cut to the chase - this is amazing!
+1020	2	food	It's unpretentious and underground.
+1021	2	service	It's unpretentious and underground.
+1022	0	place	It's unpretentious and underground.
+1023	0	food	It's fresh, welcoming, delicious, and relaxing.
+1024	2	service	It's fresh, welcoming, delicious, and relaxing.
+1025	0	place	It's fresh, welcoming, delicious, and relaxing.
+1026	0	food	Hands down, the best tuna I have ever had.
+1027	2	service	Hands down, the best tuna I have ever had.
+1028	2	place	Hands down, the best tuna I have ever had.
+1029	2	food	Blue Ribbon lives up to it's fantastic reputation.
+1030	2	service	Blue Ribbon lives up to it's fantastic reputation.
+1031	2	place	Blue Ribbon lives up to it's fantastic reputation.
+1032	2	food	I went here on a recommendation and will surely return time and time again.
+1033	2	service	I went here on a recommendation and will surely return time and time again.
+1034	2	place	I went here on a recommendation and will surely return time and time again.
+1035	2	food	What a find!
+1036	2	service	What a find!
+1037	2	place	What a find!
+1038	2	food	Well worth it 
+1039	2	service	Well worth it 
+1040	2	place	Well worth it 
+1041	0	food	Great value sushi with high quality & nice setting.
+1042	2	service	Great value sushi with high quality & nice setting.
+1043	0	place	Great value sushi with high quality & nice setting.
+1044	2	food	Good for late night dining (last minute planning) without reservations.
+1045	2	service	Good for late night dining (last minute planning) without reservations.
+1046	2	place	Good for late night dining (last minute planning) without reservations.
+1047	0	food	Try the Chef's Choice for sushi as the smoked yellowtail was incredible and the rolls were also tasty.
+1048	2	service	Try the Chef's Choice for sushi as the smoked yellowtail was incredible and the rolls were also tasty.
+1049	2	place	Try the Chef's Choice for sushi as the smoked yellowtail was incredible and the rolls were also tasty.
+1050	1	food	Poor customer service/poor pizza.
+1051	1	service	Poor customer service/poor pizza.
+1052	2	place	Poor customer service/poor pizza.
+1053	1	food	– As with most restaurants in Seattle, Mioposto's service was bad and the food was overpriced.
+1054	1	service	– As with most restaurants in Seattle, Mioposto's service was bad and the food was overpriced.
+1055	2	place	– As with most restaurants in Seattle, Mioposto's service was bad and the food was overpriced.
+1056	1	food	I know many people have their favorite types of pizza and pizza places, but Mioposto's pizza lacks quality and good taste.
+1057	2	service	I know many people have their favorite types of pizza and pizza places, but Mioposto's pizza lacks quality and good taste.
+1058	2	place	I know many people have their favorite types of pizza and pizza places, but Mioposto's pizza lacks quality and good taste.
+1059	1	food	To be honest, I've had better frozen pizza.
+1060	2	service	To be honest, I've had better frozen pizza.
+1061	2	place	To be honest, I've had better frozen pizza.
+1062	2	food	I'm not kidding.
+1063	2	service	I'm not kidding.
+1064	2	place	I'm not kidding.
+1065	2	food	The only positive thing about Mioposto is the nice location.
+1066	2	service	The only positive thing about Mioposto is the nice location.
+1067	0	place	The only positive thing about Mioposto is the nice location.
+1068	2	food	Love it every time 
+1069	2	service	Love it every time 
+1070	2	place	Love it every time 
+1071	2	food	I was frankly shocked when I read the bad reviews - this place is fantastic; it has not let us down in any way, and we've eaten here more than 10 times.
+1072	2	service	I was frankly shocked when I read the bad reviews - this place is fantastic; it has not let us down in any way, and we've eaten here more than 10 times.
+1073	2	place	I was frankly shocked when I read the bad reviews - this place is fantastic; it has not let us down in any way, and we've eaten here more than 10 times.
+1074	2	food	People complain about the dim lighting, but that is one what I love about this place - if you want to stare at your food in bright light, go to McDonalds.
+1075	2	service	People complain about the dim lighting, but that is one what I love about this place - if you want to stare at your food in bright light, go to McDonalds.
+1076	2	place	People complain about the dim lighting, but that is one what I love about this place - if you want to stare at your food in bright light, go to McDonalds.
+1077	0	food	The food is fantastic, and the waiting staff has been perfect every single time we've been there.
+1078	0	service	The food is fantastic, and the waiting staff has been perfect every single time we've been there.
+1079	2	place	The food is fantastic, and the waiting staff has been perfect every single time we've been there.
+1080	2	food	The only problem would be the wait, but we usually just have a drink in the front while waiting.
+1081	2	service	The only problem would be the wait, but we usually just have a drink in the front while waiting.
+1082	2	place	The only problem would be the wait, but we usually just have a drink in the front while waiting.
+1083	2	food	Never had one single problem there.
+1084	2	service	Never had one single problem there.
+1085	2	place	Never had one single problem there.
+1086	0	food	Seafood Plus
+1087	2	service	Seafood Plus
+1088	2	place	Seafood Plus
+1089	2	food	– This was  great dining experience.
+1090	2	service	– This was  great dining experience.
+1091	2	place	– This was  great dining experience.
+1092	2	food	If you're going to see Danny Gans or just staying at the Mirage, don't miss this one.
+1093	2	service	If you're going to see Danny Gans or just staying at the Mirage, don't miss this one.
+1094	2	place	If you're going to see Danny Gans or just staying at the Mirage, don't miss this one.
+1095	0	food	The appetizer of oysters, lobster, crab (small size) made a perfect entre for my wife.
+1096	2	service	The appetizer of oysters, lobster, crab (small size) made a perfect entre for my wife.
+1097	2	place	The appetizer of oysters, lobster, crab (small size) made a perfect entre for my wife.
+1098	0	food	Seabass on lobster risotto was the best.
+1099	2	service	Seabass on lobster risotto was the best.
+1100	2	place	Seabass on lobster risotto was the best.
+1101	0	food	Caesar salad was superb.
+1102	2	service	Caesar salad was superb.
+1103	2	place	Caesar salad was superb.
+1104	0	food	Great bottle of wine.
+1105	2	service	Great bottle of wine.
+1106	2	place	Great bottle of wine.
+1107	0	food	Leave room for dessert.
+1108	2	service	Leave room for dessert.
+1109	2	place	Leave room for dessert.
+1110	2	food	COMPLETELY OVER RATED!
+1111	2	service	COMPLETELY OVER RATED!
+1112	2	place	COMPLETELY OVER RATED!
+1113	2	food	I will have to do more research before checking out new places based on Diners, drive-ins and dives reviews.
+1114	2	service	I will have to do more research before checking out new places based on Diners, drive-ins and dives reviews.
+1115	2	place	I will have to do more research before checking out new places based on Diners, drive-ins and dives reviews.
+1116	2	food	I noice most reviews mention the bad service.
+1117	2	service	I noice most reviews mention the bad service.
+1118	2	place	I noice most reviews mention the bad service.
+1119	2	food	The food was ok, but the service was so poor that the food was cold buy the time everyone in my party was served.
+1120	1	service	The food was ok, but the service was so poor that the food was cold buy the time everyone in my party was served.
+1121	2	place	The food was ok, but the service was so poor that the food was cold buy the time everyone in my party was served.
+1122	2	food	Even then, the order was not correct and we were still waiting for a couple items.
+1123	1	service	Even then, the order was not correct and we were still waiting for a couple items.
+1124	2	place	Even then, the order was not correct and we were still waiting for a couple items.
+1125	2	food	We had a very hard time getting the waitress' attention and finally had to get up and go inside to speak to a manager.
+1126	1	service	We had a very hard time getting the waitress' attention and finally had to get up and go inside to speak to a manager.
+1127	2	place	We had a very hard time getting the waitress' attention and finally had to get up and go inside to speak to a manager.
+1128	2	food	As it turns out the owner was seated right next to us and when he came over to check on our problems was very dismissive and offered a token 20% discount on our bill.
+1129	1	service	As it turns out the owner was seated right next to us and when he came over to check on our problems was very dismissive and offered a token 20% discount on our bill.
+1130	2	place	As it turns out the owner was seated right next to us and when he came over to check on our problems was very dismissive and offered a token 20% discount on our bill.
+1131	2	food	When the bill came, he only took the discount off the food and not the drinks.
+1132	1	service	When the bill came, he only took the discount off the food and not the drinks.
+1133	2	place	When the bill came, he only took the discount off the food and not the drinks.
+1134	2	food	It was clear he didn’t really care.
+1135	1	service	It was clear he didn’t really care.
+1136	2	place	It was clear he didn’t really care.
+1137	2	food	With so many great breakfast/lunch places in So Cal, this one is not worth the wait or any extra effort to visit.
+1138	2	service	With so many great breakfast/lunch places in So Cal, this one is not worth the wait or any extra effort to visit.
+1139	2	place	With so many great breakfast/lunch places in So Cal, this one is not worth the wait or any extra effort to visit.
+1140	2	food	AVOID THE PLACE
+1141	2	service	AVOID THE PLACE
+1142	2	place	AVOID THE PLACE
+1143	2	food	– Save yourself the waste of time & DO NOT visit.
+1144	2	service	– Save yourself the waste of time & DO NOT visit.
+1145	2	place	– Save yourself the waste of time & DO NOT visit.
+1146	2	food	I made my 1st trip to the restaurant after finding their webpage online.
+1147	2	service	I made my 1st trip to the restaurant after finding their webpage online.
+1148	2	place	I made my 1st trip to the restaurant after finding their webpage online.
+1149	2	food	When I got there I sat up stairs where the atmosphere was cozy & the service was horrible!
+1150	1	service	When I got there I sat up stairs where the atmosphere was cozy & the service was horrible!
+1151	0	place	When I got there I sat up stairs where the atmosphere was cozy & the service was horrible!
+1152	2	food	I waited for 10-15 minutes for service ordered a beer & was never served again.
+1153	1	service	I waited for 10-15 minutes for service ordered a beer & was never served again.
+1154	2	place	I waited for 10-15 minutes for service ordered a beer & was never served again.
+1155	2	food	After sitting there with my empty glass for over 20 minutes I left.
+1156	1	service	After sitting there with my empty glass for over 20 minutes I left.
+1157	2	place	After sitting there with my empty glass for over 20 minutes I left.
+1158	2	food	I went home & looked them up online again where I discovered there is a link for a give away that doesn't work so emailed the restaurant about the non existent service & deceptive link.
+1159	2	service	I went home & looked them up online again where I discovered there is a link for a give away that doesn't work so emailed the restaurant about the non existent service & deceptive link.
+1160	2	place	I went home & looked them up online again where I discovered there is a link for a give away that doesn't work so emailed the restaurant about the non existent service & deceptive link.
+1161	2	food	I never heard back from anyone more than a month ago.
+1162	2	service	I never heard back from anyone more than a month ago.
+1163	2	place	I never heard back from anyone more than a month ago.
+1164	2	food	After telling my friend about the situation he said lets try again but we will visit the lower bar.
+1165	2	service	After telling my friend about the situation he said lets try again but we will visit the lower bar.
+1166	2	place	After telling my friend about the situation he said lets try again but we will visit the lower bar.
+1167	2	food	After sitting at the bar for over 20 minutes the bar keep had made only 2 drinks & kept telling us she'd be right with us.
+1168	1	service	After sitting at the bar for over 20 minutes the bar keep had made only 2 drinks & kept telling us she'd be right with us.
+1169	2	place	After sitting at the bar for over 20 minutes the bar keep had made only 2 drinks & kept telling us she'd be right with us.
+1170	2	food	We left without ever getting service.
+1171	1	service	We left without ever getting service.
+1172	2	place	We left without ever getting service.
+1173	2	food	As of writing this I just tried their give away a link again & it still doesn't work.
+1174	2	service	As of writing this I just tried their give away a link again & it still doesn't work.
+1175	2	place	As of writing this I just tried their give away a link again & it still doesn't work.
+1176	2	food	There are so many better places to visit!
+1177	2	service	There are so many better places to visit!
+1178	2	place	There are so many better places to visit!
+1179	0	food	Best Crab Cakes in Town
+1180	2	service	Best Crab Cakes in Town
+1181	2	place	Best Crab Cakes in Town
+1182	0	food	– Thats a big statement considering I've been pulling crab traps and making the cakes myself since I was about seven - but something about these little devils gets better every time.
+1183	2	service	– Thats a big statement considering I've been pulling crab traps and making the cakes myself since I was about seven - but something about these little devils gets better every time.
+1184	2	place	– Thats a big statement considering I've been pulling crab traps and making the cakes myself since I was about seven - but something about these little devils gets better every time.
+1185	2	food	If you can, come to this place by boat and make it a whole evening.
+1186	2	service	If you can, come to this place by boat and make it a whole evening.
+1187	2	place	If you can, come to this place by boat and make it a whole evening.
+1188	0	food	Great seasonal fish and seafood, with a classy waterfront setting.
+1189	2	service	Great seasonal fish and seafood, with a classy waterfront setting.
+1190	0	place	Great seasonal fish and seafood, with a classy waterfront setting.
+1191	2	food	Always a winner.
+1192	2	service	Always a winner.
+1193	2	place	Always a winner.
+1194	0	food	Great Pizza, Poor Service
+1195	1	service	Great Pizza, Poor Service
+1196	2	place	Great Pizza, Poor Service
+1197	0	food	– Love their pizza, especially the mushroom pizza.
+1198	2	service	– Love their pizza, especially the mushroom pizza.
+1199	2	place	– Love their pizza, especially the mushroom pizza.
+1200	0	food	Also love their caeser salad.
+1201	2	service	Also love their caeser salad.
+1202	2	place	Also love their caeser salad.
+1203	2	food	Prefer to order it and pick it up though because I don't like the servers, one young woman in particular.
+1204	1	service	Prefer to order it and pick it up though because I don't like the servers, one young woman in particular.
+1205	2	place	Prefer to order it and pick it up though because I don't like the servers, one young woman in particular.
+1206	2	food	She doesn't make you feel welcome and treats you like an annoyance.
+1207	1	service	She doesn't make you feel welcome and treats you like an annoyance.
+1208	2	place	She doesn't make you feel welcome and treats you like an annoyance.
+1209	2	food	But she is very friendly with certain people, making it even more annoying.
+1210	1	service	But she is very friendly with certain people, making it even more annoying.
+1211	2	place	But she is very friendly with certain people, making it even more annoying.
+1212	2	food	Management should really take notice and train their waitstaff and teach them some proper manners.
+1213	1	service	Management should really take notice and train their waitstaff and teach them some proper manners.
+1214	2	place	Management should really take notice and train their waitstaff and teach them some proper manners.
+1215	0	food	Many people talk about the great pizza and poor service, so it can't just be the rantings of a few dissatisfied customers.
+1216	1	service	Many people talk about the great pizza and poor service, so it can't just be the rantings of a few dissatisfied customers.
+1217	2	place	Many people talk about the great pizza and poor service, so it can't just be the rantings of a few dissatisfied customers.
+1218	2	food	It's a great little place with tons of potential to be a neighborhood joint if the service weren't so impersonal and corporate-like.
+1219	1	service	It's a great little place with tons of potential to be a neighborhood joint if the service weren't so impersonal and corporate-like.
+1220	2	place	It's a great little place with tons of potential to be a neighborhood joint if the service weren't so impersonal and corporate-like.
+1221	0	food	Great Breakfast
+1222	2	service	Great Breakfast
+1223	2	place	Great Breakfast
+1224	0	food	– This place is famous for their breakfast.
+1225	2	service	– This place is famous for their breakfast.
+1226	2	place	– This place is famous for their breakfast.
+1227	2	food	They have been featured on the food network and they deserve it.
+1228	2	service	They have been featured on the food network and they deserve it.
+1229	2	place	They have been featured on the food network and they deserve it.
+1230	0	food	The food is great and they make a mean bloody mary.
+1231	2	service	The food is great and they make a mean bloody mary.
+1232	2	place	The food is great and they make a mean bloody mary.
+1233	0	food	I love breakfast here.
+1234	2	service	I love breakfast here.
+1235	2	place	I love breakfast here.
+1236	0	food	Their crab eggs benedict is addicting.
+1237	2	service	Their crab eggs benedict is addicting.
+1238	2	place	Their crab eggs benedict is addicting.
+1239	0	food	All their menu items are a hit, and they serve mimosas.
+1240	2	service	All their menu items are a hit, and they serve mimosas.
+1241	2	place	All their menu items are a hit, and they serve mimosas.
+1242	2	food	Doesn't get any better than that.
+1243	2	service	Doesn't get any better than that.
+1244	2	place	Doesn't get any better than that.
+1245	0	food	best chinese food i have tasted in a long time
+1246	2	service	best chinese food i have tasted in a long time
+1247	2	place	best chinese food i have tasted in a long time
+1248	2	food	– we got a groupon for pagoda and decided to try it on a thursday night.
+1249	2	service	– we got a groupon for pagoda and decided to try it on a thursday night.
+1250	2	place	– we got a groupon for pagoda and decided to try it on a thursday night.
+1251	2	food	there was a guy playing the piano and singing at the bar area which was separate from the dinning area.
+1252	2	service	there was a guy playing the piano and singing at the bar area which was separate from the dinning area.
+1253	2	place	there was a guy playing the piano and singing at the bar area which was separate from the dinning area.
+1254	2	food	You can easily hear him though so it was a pleasant sound and not overbearing.
+1255	2	service	You can easily hear him though so it was a pleasant sound and not overbearing.
+1256	0	place	You can easily hear him though so it was a pleasant sound and not overbearing.
+1257	2	food	the ambiance of the restaurant was nice and good for fine dinning.
+1258	2	service	the ambiance of the restaurant was nice and good for fine dinning.
+1259	0	place	the ambiance of the restaurant was nice and good for fine dinning.
+1260	2	food	not too fine thought that you feel uncomfortable and have to dress up.
+1261	2	service	not too fine thought that you feel uncomfortable and have to dress up.
+1262	0	place	not too fine thought that you feel uncomfortable and have to dress up.
+1263	2	food	the staff was very nice and courteous and obviously chinese.
+1264	0	service	the staff was very nice and courteous and obviously chinese.
+1265	2	place	the staff was very nice and courteous and obviously chinese.
+1266	2	food	we ordered the honey walnut prawns which we always order at every chinese restaurant to determine the quality of food.
+1267	2	service	we ordered the honey walnut prawns which we always order at every chinese restaurant to determine the quality of food.
+1268	2	place	we ordered the honey walnut prawns which we always order at every chinese restaurant to determine the quality of food.
+1269	2	food	First off, the food came fast and all together :) i like that... i hate the pretentiousness of things coming in one after the other.
+1270	0	service	First off, the food came fast and all together :) i like that... i hate the pretentiousness of things coming in one after the other.
+1271	2	place	First off, the food came fast and all together :) i like that... i hate the pretentiousness of things coming in one after the other.
+1272	0	food	so about the prawns, they were fresh and had a slight crispiness about the batter... soooo good... the walnuts were cut in smaller pieces and very crunchy and tasty.
+1273	2	service	so about the prawns, they were fresh and had a slight crispiness about the batter... soooo good... the walnuts were cut in smaller pieces and very crunchy and tasty.
+1274	2	place	so about the prawns, they were fresh and had a slight crispiness about the batter... soooo good... the walnuts were cut in smaller pieces and very crunchy and tasty.
+1275	0	food	yummy.
+1276	2	service	yummy.
+1277	2	place	yummy.
+1278	0	food	best honey walnyt prawns that we have every tasted.
+1279	2	service	best honey walnyt prawns that we have every tasted.
+1280	2	place	best honey walnyt prawns that we have every tasted.
+1281	2	food	next one that we ordered were prawns and scallop with brocolli.
+1282	2	service	next one that we ordered were prawns and scallop with brocolli.
+1283	2	place	next one that we ordered were prawns and scallop with brocolli.
+1284	0	food	the brocollis were so fresh and tasty.
+1285	2	service	the brocollis were so fresh and tasty.
+1286	2	place	the brocollis were so fresh and tasty.
+1287	0	food	i would normally not finish the brocolli when i order these kinds of food but for the first time, every piece was as eventful as the first one... the scallops and prawns was so fresh and nicely cooked.
+1288	2	service	i would normally not finish the brocolli when i order these kinds of food but for the first time, every piece was as eventful as the first one... the scallops and prawns was so fresh and nicely cooked.
+1289	2	place	i would normally not finish the brocolli when i order these kinds of food but for the first time, every piece was as eventful as the first one... the scallops and prawns was so fresh and nicely cooked.
+1290	0	food	not chewy at all.
+1291	2	service	not chewy at all.
+1292	2	place	not chewy at all.
+1293	0	food	for desert we had the mango ginger creme brulee... oh la la yummy!!!
+1294	2	service	for desert we had the mango ginger creme brulee... oh la la yummy!!!
+1295	2	place	for desert we had the mango ginger creme brulee... oh la la yummy!!!
+1296	0	food	melt in your mouth.
+1297	2	service	melt in your mouth.
+1298	2	place	melt in your mouth.
+1299	2	food	we are for sure coming back to this restaurant.
+1300	2	service	we are for sure coming back to this restaurant.
+1301	2	place	we are for sure coming back to this restaurant.
+1302	2	food	every month if possible.
+1303	2	service	every month if possible.
+1304	2	place	every month if possible.
+1305	2	food	it is sad there is not many people who frequent eating at places like these that look pricey because they are at the hotel... but they are definitely one you dont want to miss, esp if your in downtown san jose.
+1306	2	service	it is sad there is not many people who frequent eating at places like these that look pricey because they are at the hotel... but they are definitely one you dont want to miss, esp if your in downtown san jose.
+1307	2	place	it is sad there is not many people who frequent eating at places like these that look pricey because they are at the hotel... but they are definitely one you dont want to miss, esp if your in downtown san jose.
+1308	1	food	Chintzy portions
+1309	2	service	Chintzy portions
+1310	2	place	Chintzy portions
+1311	1	food	– The sushi here is perfectly good, but for $5 a piece, either the slices of fish should be larger, or there should be no pretense that this is a moderately priced restaurant (even for NYC).
+1312	2	service	– The sushi here is perfectly good, but for $5 a piece, either the slices of fish should be larger, or there should be no pretense that this is a moderately priced restaurant (even for NYC).
+1313	2	place	– The sushi here is perfectly good, but for $5 a piece, either the slices of fish should be larger, or there should be no pretense that this is a moderately priced restaurant (even for NYC).
+1314	1	food	We easily spent more than $40 per person (not including alcohol) and were still hungry.
+1315	2	service	We easily spent more than $40 per person (not including alcohol) and were still hungry.
+1316	2	place	We easily spent more than $40 per person (not including alcohol) and were still hungry.
+1317	2	food	I'm astonished that this restaurant is categorized as $$$ rather than $$$$.
+1318	2	service	I'm astonished that this restaurant is categorized as $$$ rather than $$$$.
+1319	2	place	I'm astonished that this restaurant is categorized as $$$ rather than $$$$.
+1320	2	food	Terrible service, food ok, pricey
+1321	1	service	Terrible service, food ok, pricey
+1322	2	place	Terrible service, food ok, pricey
+1323	2	food	– This past weekend had great weather for San Francisco standards.
+1324	2	service	– This past weekend had great weather for San Francisco standards.
+1325	2	place	– This past weekend had great weather for San Francisco standards.
+1326	2	food	So for the 'after beach excursion', we thought we would end the day on a high note and make the trip across the street from the beach to Park Chalet.
+1327	2	service	So for the 'after beach excursion', we thought we would end the day on a high note and make the trip across the street from the beach to Park Chalet.
+1328	2	place	So for the 'after beach excursion', we thought we would end the day on a high note and make the trip across the street from the beach to Park Chalet.
+1329	2	food	The restaurant was busy, however there were a few tables open.
+1330	2	service	The restaurant was busy, however there were a few tables open.
+1331	2	place	The restaurant was busy, however there were a few tables open.
+1332	2	food	We put out name down and although there were open tables we were told that it'd be a 30 minute wait.
+1333	1	service	We put out name down and although there were open tables we were told that it'd be a 30 minute wait.
+1334	2	place	We put out name down and although there were open tables we were told that it'd be a 30 minute wait.
+1335	2	food	So here we are, my wife, 3 year old daughter and I trying to pass the time by hanging out in the front of the building (where the murals and artifacts are).
+1336	2	service	So here we are, my wife, 3 year old daughter and I trying to pass the time by hanging out in the front of the building (where the murals and artifacts are).
+1337	2	place	So here we are, my wife, 3 year old daughter and I trying to pass the time by hanging out in the front of the building (where the murals and artifacts are).
+1338	2	food	30 minutes went by and sure enough the pager buzzer went off.
+1339	2	service	30 minutes went by and sure enough the pager buzzer went off.
+1340	2	place	30 minutes went by and sure enough the pager buzzer went off.
+1341	2	food	We went back to the restaurant and low and behold, we were seated at one of the tables that was available 30 minutes ago!!
+1342	1	service	We went back to the restaurant and low and behold, we were seated at one of the tables that was available 30 minutes ago!!
+1343	2	place	We went back to the restaurant and low and behold, we were seated at one of the tables that was available 30 minutes ago!!
+1344	2	food	Logic behind that?
+1345	2	service	Logic behind that?
+1346	2	place	Logic behind that?
+1347	2	food	None that I can think of.
+1348	1	service	None that I can think of.
+1349	2	place	None that I can think of.
+1350	2	food	We put in our order and although we ordered 4 appetizers, the food didn't arrive until 45 minutes later...WITH OUR MAIN COURSE.
+1351	1	service	We put in our order and although we ordered 4 appetizers, the food didn't arrive until 45 minutes later...WITH OUR MAIN COURSE.
+1352	2	place	We put in our order and although we ordered 4 appetizers, the food didn't arrive until 45 minutes later...WITH OUR MAIN COURSE.
+1353	2	food	Um so now what are appetizers for???
+1354	1	service	Um so now what are appetizers for???
+1355	2	place	Um so now what are appetizers for???
+1356	2	food	Oh I forgot to mention that they don't have bread service.
+1357	1	service	Oh I forgot to mention that they don't have bread service.
+1358	2	place	Oh I forgot to mention that they don't have bread service.
+1359	2	food	Its a good thing my daughter had some snacks in her lunch bag.
+1360	2	service	Its a good thing my daughter had some snacks in her lunch bag.
+1361	2	place	Its a good thing my daughter had some snacks in her lunch bag.
+1362	2	food	My wife also ordered a teapot of hot water (she had a sore throat) and I guess that since it was only water, it wasn't a priority for them to actually bring it.
+1363	1	service	My wife also ordered a teapot of hot water (she had a sore throat) and I guess that since it was only water, it wasn't a priority for them to actually bring it.
+1364	2	place	My wife also ordered a teapot of hot water (she had a sore throat) and I guess that since it was only water, it wasn't a priority for them to actually bring it.
+1365	2	food	In other words, if they aren't making $$ off of you then you don't rate high on their 'service scale'.
+1366	1	service	In other words, if they aren't making $$ off of you then you don't rate high on their 'service scale'.
+1367	2	place	In other words, if they aren't making $$ off of you then you don't rate high on their 'service scale'.
+1368	2	food	Food wise, its ok but a bit pricey for what you get considering the restaurant isn't a fancy place.
+1369	2	service	Food wise, its ok but a bit pricey for what you get considering the restaurant isn't a fancy place.
+1370	2	place	Food wise, its ok but a bit pricey for what you get considering the restaurant isn't a fancy place.
+1371	2	food	The upside of the restaurant?
+1372	2	service	The upside of the restaurant?
+1373	2	place	The upside of the restaurant?
+1374	2	food	If I needed to name some they would include the location to the beach or Golden Gate park.
+1375	2	service	If I needed to name some they would include the location to the beach or Golden Gate park.
+1376	0	place	If I needed to name some they would include the location to the beach or Golden Gate park.
+1377	2	food	Its great if you spent the day there and didn't want to drive to eat.
+1378	2	service	Its great if you spent the day there and didn't want to drive to eat.
+1379	0	place	Its great if you spent the day there and didn't want to drive to eat.
+1380	2	food	Parking is reasonably good, they have their own lot and you can park in the park nearby.
+1381	2	service	Parking is reasonably good, they have their own lot and you can park in the park nearby.
+1382	2	place	Parking is reasonably good, they have their own lot and you can park in the park nearby.
+1383	2	food	Another plus is the open feel of the restaurant with glass walls on all sides.
+1384	2	service	Another plus is the open feel of the restaurant with glass walls on all sides.
+1385	0	place	Another plus is the open feel of the restaurant with glass walls on all sides.
+1386	2	food	I'd hate for tourists to go to Park Chalet and think that this is how all San Francisco restaurants are like.
+1387	2	service	I'd hate for tourists to go to Park Chalet and think that this is how all San Francisco restaurants are like.
+1388	2	place	I'd hate for tourists to go to Park Chalet and think that this is how all San Francisco restaurants are like.
+1389	2	food	Always good.
+1390	2	service	Always good.
+1391	2	place	Always good.
+1392	2	food	– A sushi-fiend friend recently visited and our group of three just had to come for dinner.
+1393	2	service	– A sushi-fiend friend recently visited and our group of three just had to come for dinner.
+1394	2	place	– A sushi-fiend friend recently visited and our group of three just had to come for dinner.
+1395	2	food	6pm on a Sat before a Broadway play and we were quickly seated and served.
+1396	0	service	6pm on a Sat before a Broadway play and we were quickly seated and served.
+1397	2	place	6pm on a Sat before a Broadway play and we were quickly seated and served.
+1398	0	food	Amazing Spanish Mackeral special appetizer and perfect box sushi (that eel with avodcao -- um um um).
+1399	2	service	Amazing Spanish Mackeral special appetizer and perfect box sushi (that eel with avodcao -- um um um).
+1400	2	place	Amazing Spanish Mackeral special appetizer and perfect box sushi (that eel with avodcao -- um um um).
+1401	1	food	As usual the omikase didn't disappoint in freshness, although it scored low on creativity and selection.
+1402	2	service	As usual the omikase didn't disappoint in freshness, although it scored low on creativity and selection.
+1403	2	place	As usual the omikase didn't disappoint in freshness, although it scored low on creativity and selection.
+1404	0	food	Their specialty rolls are impressive, though I can't remember what we had.
+1405	2	service	Their specialty rolls are impressive, though I can't remember what we had.
+1406	2	place	Their specialty rolls are impressive, though I can't remember what we had.
+1407	0	food	Great selection of sakes.
+1408	2	service	Great selection of sakes.
+1409	2	place	Great selection of sakes.
+1410	0	food	Green tea creme brulee gets better each time I have it.
+1411	2	service	Green tea creme brulee gets better each time I have it.
+1412	2	place	Green tea creme brulee gets better each time I have it.
+1413	0	food	It isn't the cheapest sushi but has been worth it every time.
+1414	2	service	It isn't the cheapest sushi but has been worth it every time.
+1415	2	place	It isn't the cheapest sushi but has been worth it every time.
+1416	2	food	Very poor customer service.
+1417	1	service	Very poor customer service.
+1418	2	place	Very poor customer service.
+1419	2	food	– Schooner or Later's charming location along the marina in Long Beach and average food does not, unfortunately, compensate for its very poor customer service.
+1420	1	service	– Schooner or Later's charming location along the marina in Long Beach and average food does not, unfortunately, compensate for its very poor customer service.
+1421	0	place	– Schooner or Later's charming location along the marina in Long Beach and average food does not, unfortunately, compensate for its very poor customer service.
+1422	0	food	While this diner had reasonably good food, the restaurant staff seemed completely indifferent to our presence, and this attitude was reflected in the lack of service.
+1423	1	service	While this diner had reasonably good food, the restaurant staff seemed completely indifferent to our presence, and this attitude was reflected in the lack of service.
+1424	2	place	While this diner had reasonably good food, the restaurant staff seemed completely indifferent to our presence, and this attitude was reflected in the lack of service.
+1425	2	food	As part of a small party of four, our food was dropped off without comment;
+1426	1	service	As part of a small party of four, our food was dropped off without comment;
+1427	2	place	As part of a small party of four, our food was dropped off without comment;
+1428	2	food	any further needs we may have had could not have been met since no one stopped by the table.
+1429	1	service	any further needs we may have had could not have been met since no one stopped by the table.
+1430	2	place	any further needs we may have had could not have been met since no one stopped by the table.
+1431	2	food	When we finally were able to flag someone down, it was someone entirely different from the person who had dropped off the food, who was also not the same person who had taken our order.
+1432	1	service	When we finally were able to flag someone down, it was someone entirely different from the person who had dropped off the food, who was also not the same person who had taken our order.
+1433	2	place	When we finally were able to flag someone down, it was someone entirely different from the person who had dropped off the food, who was also not the same person who had taken our order.
+1434	2	food	After one member of our party had been bumped repeatedly by a waitress, a polite request that he not be bumped sent the waitress into an abusive rant.
+1435	1	service	After one member of our party had been bumped repeatedly by a waitress, a polite request that he not be bumped sent the waitress into an abusive rant.
+1436	2	place	After one member of our party had been bumped repeatedly by a waitress, a polite request that he not be bumped sent the waitress into an abusive rant.
+1437	2	food	A brief conversation with the manager at the end of the meal was the greatest disappointment--to say we had been "blown off" would be an understatement.
+1438	1	service	A brief conversation with the manager at the end of the meal was the greatest disappointment--to say we had been "blown off" would be an understatement.
+1439	2	place	A brief conversation with the manager at the end of the meal was the greatest disappointment--to say we had been "blown off" would be an understatement.
+1440	2	food	The manager continually interrupted with "Is there anything else I can do for you?", a strange comment because she had hardly listened, let alone responded to our expression of disappointment at our experience.
+1441	1	service	The manager continually interrupted with "Is there anything else I can do for you?", a strange comment because she had hardly listened, let alone responded to our expression of disappointment at our experience.
+1442	2	place	The manager continually interrupted with "Is there anything else I can do for you?", a strange comment because she had hardly listened, let alone responded to our expression of disappointment at our experience.
+1443	2	food	She promised to speak to the waitress who had flown off in a rage, but we could hardly take her promise seriously, seeing as she hadn't bothered to get the waitresses name.
+1444	1	service	She promised to speak to the waitress who had flown off in a rage, but we could hardly take her promise seriously, seeing as she hadn't bothered to get the waitresses name.
+1445	2	place	She promised to speak to the waitress who had flown off in a rage, but we could hardly take her promise seriously, seeing as she hadn't bothered to get the waitresses name.
+1446	2	food	In short, Schooner or Later couldn't have cared less about our being at their establishment.
+1447	1	service	In short, Schooner or Later couldn't have cared less about our being at their establishment.
+1448	2	place	In short, Schooner or Later couldn't have cared less about our being at their establishment.
+1449	2	food	Next time we will go somewhere else, or try other restaurants close by like Mimi's Cafe and Claim Jumper.
+1450	2	service	Next time we will go somewhere else, or try other restaurants close by like Mimi's Cafe and Claim Jumper.
+1451	2	place	Next time we will go somewhere else, or try other restaurants close by like Mimi's Cafe and Claim Jumper.
+1452	2	food	1 o'clock in the morning.
+1453	2	service	1 o'clock in the morning.
+1454	2	place	1 o'clock in the morning.
+1455	0	food	you are with a hot date and he/she has an urge for sushi...then this might be the place.
+1456	2	service	you are with a hot date and he/she has an urge for sushi...then this might be the place.
+1457	2	place	you are with a hot date and he/she has an urge for sushi...then this might be the place.
+1458	1	food	the fish was fresh, though it was cut very thin.
+1459	2	service	the fish was fresh, though it was cut very thin.
+1460	2	place	the fish was fresh, though it was cut very thin.
+1461	2	food	great service.
+1462	0	service	great service.
+1463	2	place	great service.
+1464	0	food	good sake selection.
+1465	2	service	good sake selection.
+1466	2	place	good sake selection.
+1467	0	food	Dungeness crabs here!
+1468	2	service	Dungeness crabs here!
+1469	2	place	Dungeness crabs here!
+1470	0	food	– Ray's is THE place to go for high quality seafood dinners.
+1471	2	service	– Ray's is THE place to go for high quality seafood dinners.
+1472	2	place	– Ray's is THE place to go for high quality seafood dinners.
+1473	0	food	And they give good quantity for the price.
+1474	2	service	And they give good quantity for the price.
+1475	2	place	And they give good quantity for the price.
+1476	2	food	We were only in Seattle for one night and I'm so glad we picked Rays for dinner!
+1477	2	service	We were only in Seattle for one night and I'm so glad we picked Rays for dinner!
+1478	2	place	We were only in Seattle for one night and I'm so glad we picked Rays for dinner!
+1479	0	food	I love Dungeness crabs and at Ray's you can get them served in about 6 different ways!
+1480	2	service	I love Dungeness crabs and at Ray's you can get them served in about 6 different ways!
+1481	2	place	I love Dungeness crabs and at Ray's you can get them served in about 6 different ways!
+1482	0	food	We shared the family platter and I especially enjoyed the black cod in sake kasu.
+1483	2	service	We shared the family platter and I especially enjoyed the black cod in sake kasu.
+1484	2	place	We shared the family platter and I especially enjoyed the black cod in sake kasu.
+1485	0	food	I ended the meal with the unusual dessert of a port and chocolate tasting....yummy!
+1486	2	service	I ended the meal with the unusual dessert of a port and chocolate tasting....yummy!
+1487	2	place	I ended the meal with the unusual dessert of a port and chocolate tasting....yummy!
+1488	2	food	And the service was simply spendid - quite a delight.
+1489	0	service	And the service was simply spendid - quite a delight.
+1490	2	place	And the service was simply spendid - quite a delight.
+1491	0	food	Great Breakfast
+1492	2	service	Great Breakfast
+1493	2	place	Great Breakfast
+1494	0	food	– Great drinks , corn beef hash, coffee, B Fast burritos, Gluten Free menu.
+1495	2	service	– Great drinks , corn beef hash, coffee, B Fast burritos, Gluten Free menu.
+1496	2	place	– Great drinks , corn beef hash, coffee, B Fast burritos, Gluten Free menu.
+1497	2	food	The service is fantastic at this fun place.
+1498	0	service	The service is fantastic at this fun place.
+1499	2	place	The service is fantastic at this fun place.
+1500	2	food	If there is a line very day of the week for the entire time a place is open, you know it is great.
+1501	2	service	If there is a line very day of the week for the entire time a place is open, you know it is great.
+1502	2	place	If there is a line very day of the week for the entire time a place is open, you know it is great.
+1503	2	food	This is the case at this gem.
+1504	2	service	This is the case at this gem.
+1505	2	place	This is the case at this gem.
+1506	2	food	Best Neighborhood Standby.
+1507	2	service	Best Neighborhood Standby.
+1508	2	place	Best Neighborhood Standby.
+1509	2	food	You Can't Go Wrong Here.
+1510	2	service	You Can't Go Wrong Here.
+1511	2	place	You Can't Go Wrong Here.
+1512	2	food	– Every neighborhood has a few great local bars that are the best secrets.
+1513	2	service	– Every neighborhood has a few great local bars that are the best secrets.
+1514	2	place	– Every neighborhood has a few great local bars that are the best secrets.
+1515	2	food	In Grammercy/Union Square/East Village this is my neighbors and my favorite spot.
+1516	2	service	In Grammercy/Union Square/East Village this is my neighbors and my favorite spot.
+1517	2	place	In Grammercy/Union Square/East Village this is my neighbors and my favorite spot.
+1518	0	food	The music is great, no night better or worse, the bar tenders are generous with the pouring, and the lighthearted atmosphere will lifts you spirits.
+1519	2	service	The music is great, no night better or worse, the bar tenders are generous with the pouring, and the lighthearted atmosphere will lifts you spirits.
+1520	0	place	The music is great, no night better or worse, the bar tenders are generous with the pouring, and the lighthearted atmosphere will lifts you spirits.
+1521	2	food	Seriously, you can't go wrong, if it is unpretentious local fun you seek.
+1522	2	service	Seriously, you can't go wrong, if it is unpretentious local fun you seek.
+1523	0	place	Seriously, you can't go wrong, if it is unpretentious local fun you seek.
+1524	0	food	Oh, and the cheese fries are awesome!
+1525	2	service	Oh, and the cheese fries are awesome!
+1526	2	place	Oh, and the cheese fries are awesome!
+1527	0	food	Good Food, Great Service, Average Prices (For the Strip)
+1528	0	service	Good Food, Great Service, Average Prices (For the Strip)
+1529	2	place	Good Food, Great Service, Average Prices (For the Strip)
+1530	2	food	– I decided to eat at Stack because of their price fixed pre-show dinner.
+1531	2	service	– I decided to eat at Stack because of their price fixed pre-show dinner.
+1532	2	place	– I decided to eat at Stack because of their price fixed pre-show dinner.
+1533	2	food	When I walked in, I was taken aback by their incredible wood decor.
+1534	2	service	When I walked in, I was taken aback by their incredible wood decor.
+1535	0	place	When I walked in, I was taken aback by their incredible wood decor.
+1536	2	food	The music playing was very hip, 20-30 something pop music, but the subwoofer to the sound system was located under my seat, which became annoying midway through dinner.
+1537	2	service	The music playing was very hip, 20-30 something pop music, but the subwoofer to the sound system was located under my seat, which became annoying midway through dinner.
+1538	1	place	The music playing was very hip, 20-30 something pop music, but the subwoofer to the sound system was located under my seat, which became annoying midway through dinner.
+1539	2	food	We were quickly seated and requested the special dinner, which came with: 1) Shellfish and Shrimp appetizer or Caesar Salad, 2) 9 oz steak (with a single potato chip), and 3) homemade donut holes.
+1540	2	service	We were quickly seated and requested the special dinner, which came with: 1) Shellfish and Shrimp appetizer or Caesar Salad, 2) 9 oz steak (with a single potato chip), and 3) homemade donut holes.
+1541	2	place	We were quickly seated and requested the special dinner, which came with: 1) Shellfish and Shrimp appetizer or Caesar Salad, 2) 9 oz steak (with a single potato chip), and 3) homemade donut holes.
+1542	2	food	I got the shellfish and shrimp appetizer and it was alright.
+1543	2	service	I got the shellfish and shrimp appetizer and it was alright.
+1544	2	place	I got the shellfish and shrimp appetizer and it was alright.
+1545	2	food	It wasn't the freshest seafood ever, but the taste and presentation was OK.
+1546	2	service	It wasn't the freshest seafood ever, but the taste and presentation was OK.
+1547	2	place	It wasn't the freshest seafood ever, but the taste and presentation was OK.
+1548	2	food	Before the steak came, the server told us that the steak did not come with any sides and suggested I pick something from the menu.
+1549	2	service	Before the steak came, the server told us that the steak did not come with any sides and suggested I pick something from the menu.
+1550	2	place	Before the steak came, the server told us that the steak did not come with any sides and suggested I pick something from the menu.
+1551	0	food	I picked the asparagus, which turned out to be incredible and perfectly prepared.
+1552	2	service	I picked the asparagus, which turned out to be incredible and perfectly prepared.
+1553	2	place	I picked the asparagus, which turned out to be incredible and perfectly prepared.
+1554	2	food	It was steamed and tossed with garlic.
+1555	2	service	It was steamed and tossed with garlic.
+1556	2	place	It was steamed and tossed with garlic.
+1557	0	food	The 9 oz steak came next and it tasted great, at least initially.
+1558	2	service	The 9 oz steak came next and it tasted great, at least initially.
+1559	2	place	The 9 oz steak came next and it tasted great, at least initially.
+1560	0	food	The steak was done to my exact liking (medium rare) and was nice and juicy.
+1561	2	service	The steak was done to my exact liking (medium rare) and was nice and juicy.
+1562	2	place	The steak was done to my exact liking (medium rare) and was nice and juicy.
+1563	2	food	It?s served with either a peppercorn sauce or red wine reduction, though both were indistinguishable in taste.
+1564	2	service	It?s served with either a peppercorn sauce or red wine reduction, though both were indistinguishable in taste.
+1565	2	place	It?s served with either a peppercorn sauce or red wine reduction, though both were indistinguishable in taste.
+1566	1	food	Though, one thing I realized later on was that the restaurant either used MSG or a meat tenderizer on the steak.
+1567	2	service	Though, one thing I realized later on was that the restaurant either used MSG or a meat tenderizer on the steak.
+1568	2	place	Though, one thing I realized later on was that the restaurant either used MSG or a meat tenderizer on the steak.
+1569	1	food	My mouth felt very dry afterwards and I had that signature ?MSG? taste lingering in my throat after I left the restaurant.
+1570	2	service	My mouth felt very dry afterwards and I had that signature ?MSG? taste lingering in my throat after I left the restaurant.
+1571	2	place	My mouth felt very dry afterwards and I had that signature ?MSG? taste lingering in my throat after I left the restaurant.
+1572	2	food	Finally, the homemade donut holes were served for desert.
+1573	2	service	Finally, the homemade donut holes were served for desert.
+1574	2	place	Finally, the homemade donut holes were served for desert.
+1575	0	food	They came in their own nifty take out box and with some homemade frosting; very light and not-too-sweet.
+1576	2	service	They came in their own nifty take out box and with some homemade frosting; very light and not-too-sweet.
+1577	2	place	They came in their own nifty take out box and with some homemade frosting; very light and not-too-sweet.
+1578	0	food	The desert was the perfect ending to an almost perfect dinner.
+1579	2	service	The desert was the perfect ending to an almost perfect dinner.
+1580	2	place	The desert was the perfect ending to an almost perfect dinner.
+1581	2	food	The dinner only took us about an hour and the prices were alright for the strip, almost $50/pp after tax and tip (about average).
+1582	0	service	The dinner only took us about an hour and the prices were alright for the strip, almost $50/pp after tax and tip (about average).
+1583	2	place	The dinner only took us about an hour and the prices were alright for the strip, almost $50/pp after tax and tip (about average).
+1584	2	food	But the servers were extremely attentive and very friendly.
+1585	0	service	But the servers were extremely attentive and very friendly.
+1586	2	place	But the servers were extremely attentive and very friendly.
+1587	2	food	Overall, I would go back and eat at the restaurant again.
+1588	2	service	Overall, I would go back and eat at the restaurant again.
+1589	2	place	Overall, I would go back and eat at the restaurant again.
+1590	2	food	Just remember to dress a little urban-chic so you don?t look too far out of place.
+1591	2	service	Just remember to dress a little urban-chic so you don?t look too far out of place.
+1592	2	place	Just remember to dress a little urban-chic so you don?t look too far out of place.
+1593	0	food	good sake, good food – i honestly don't know much about japanese food at all.
+1594	2	service	good sake, good food – i honestly don't know much about japanese food at all.
+1595	2	place	good sake, good food – i honestly don't know much about japanese food at all.
+1596	2	food	In the past sake usuallly just tasted kind of like salty water to me.
+1597	2	service	In the past sake usuallly just tasted kind of like salty water to me.
+1598	2	place	In the past sake usuallly just tasted kind of like salty water to me.
+1599	0	food	Server made several sake suggestions which were very good.
+1600	0	service	Server made several sake suggestions which were very good.
+1601	2	place	Server made several sake suggestions which were very good.
+1602	0	food	had many dishes but the BEST was the lobster 3 ways.
+1603	2	service	had many dishes but the BEST was the lobster 3 ways.
+1604	2	place	had many dishes but the BEST was the lobster 3 ways.
+1605	2	food	VERY GOOD!
+1606	2	service	VERY GOOD!
+1607	2	place	VERY GOOD!
+1608	2	food	Overpriced
+1609	2	service	Overpriced
+1610	2	place	Overpriced
+1611	2	food	– We dined at the Colorado location today.
+1612	2	service	– We dined at the Colorado location today.
+1613	2	place	– We dined at the Colorado location today.
+1614	2	food	Waited 35 minutes for a table for 8 which was ok for such a big crowd.
+1615	2	service	Waited 35 minutes for a table for 8 which was ok for such a big crowd.
+1616	2	place	Waited 35 minutes for a table for 8 which was ok for such a big crowd.
+1617	2	food	The waiter was a bit unfriendly and the feel of the restaurant was crowded.
+1618	1	service	The waiter was a bit unfriendly and the feel of the restaurant was crowded.
+1619	1	place	The waiter was a bit unfriendly and the feel of the restaurant was crowded.
+1620	2	food	Also, there was only one bathroom stall- probably need more for such big crowds.
+1621	2	service	Also, there was only one bathroom stall- probably need more for such big crowds.
+1622	2	place	Also, there was only one bathroom stall- probably need more for such big crowds.
+1623	0	food	Most importantly, we were so excited about the food after seeing the very creative menu.
+1624	2	service	Most importantly, we were so excited about the food after seeing the very creative menu.
+1625	2	place	Most importantly, we were so excited about the food after seeing the very creative menu.
+1626	1	food	At best, the food was good and definately overpriced.
+1627	2	service	At best, the food was good and definately overpriced.
+1628	2	place	At best, the food was good and definately overpriced.
+1629	1	food	For the amount of food we got the prices should have been lower.
+1630	2	service	For the amount of food we got the prices should have been lower.
+1631	2	place	For the amount of food we got the prices should have been lower.
+1632	2	food	Not sure if I would go back.
+1633	2	service	Not sure if I would go back.
+1634	2	place	Not sure if I would go back.
+1635	2	food	My favortie pizza joint in Seattle
+1636	2	service	My favortie pizza joint in Seattle
+1637	2	place	My favortie pizza joint in Seattle
+1638	2	food	– This is my "must bring out of town guests to" restaurant and they always enjoy and rave about it.
+1639	2	service	– This is my "must bring out of town guests to" restaurant and they always enjoy and rave about it.
+1640	2	place	– This is my "must bring out of town guests to" restaurant and they always enjoy and rave about it.
+1641	2	food	In fact, many want to return a second time during their visit.
+1642	2	service	In fact, many want to return a second time during their visit.
+1643	2	place	In fact, many want to return a second time during their visit.
+1644	0	food	The pizza is delicious and the salads are fantastic.
+1645	2	service	The pizza is delicious and the salads are fantastic.
+1646	2	place	The pizza is delicious and the salads are fantastic.
+1647	2	food	I've always found the wait staff and, if you sit at the bar, the cooks very friendly.
+1648	0	service	I've always found the wait staff and, if you sit at the bar, the cooks very friendly.
+1649	2	place	I've always found the wait staff and, if you sit at the bar, the cooks very friendly.
+1650	2	food	They aren't the most talkative, but everytime I've been there they have been very busy, which probably accounts for the lack of conversation.
+1651	2	service	They aren't the most talkative, but everytime I've been there they have been very busy, which probably accounts for the lack of conversation.
+1652	2	place	They aren't the most talkative, but everytime I've been there they have been very busy, which probably accounts for the lack of conversation.
+1653	2	food	I also really enjoy the simplicity of the decor and intimate feeling of a small restaurant.
+1654	2	service	I also really enjoy the simplicity of the decor and intimate feeling of a small restaurant.
+1655	0	place	I also really enjoy the simplicity of the decor and intimate feeling of a small restaurant.
+1656	2	food	It's just the right size for the menu.
+1657	2	service	It's just the right size for the menu.
+1658	2	place	It's just the right size for the menu.
+1659	2	food	Excellent
+1660	2	service	Excellent
+1661	2	place	Excellent
+1662	2	food	– My husband and I love eating at Mioposto Café.
+1663	2	service	– My husband and I love eating at Mioposto Café.
+1664	2	place	– My husband and I love eating at Mioposto Café.
+1665	0	food	We’re can’t say enough about their delicious gourmet pizza’s!
+1666	2	service	We’re can’t say enough about their delicious gourmet pizza’s!
+1667	2	place	We’re can’t say enough about their delicious gourmet pizza’s!
+1668	0	food	You won’t be disappointed by their menu.
+1669	2	service	You won’t be disappointed by their menu.
+1670	2	place	You won’t be disappointed by their menu.
+1671	0	food	The pizza’s are thin crust and the menu offers very creative combinations and toppings.
+1672	2	service	The pizza’s are thin crust and the menu offers very creative combinations and toppings.
+1673	2	place	The pizza’s are thin crust and the menu offers very creative combinations and toppings.
+1674	0	food	You never feel icky and stuffed after you eat there.
+1675	2	service	You never feel icky and stuffed after you eat there.
+1676	2	place	You never feel icky and stuffed after you eat there.
+1677	0	food	The pizza’s are light and scrumptious.
+1678	2	service	The pizza’s are light and scrumptious.
+1679	2	place	The pizza’s are light and scrumptious.
+1680	0	food	Try the Pizza Ensalata!
+1681	2	service	Try the Pizza Ensalata!
+1682	2	place	Try the Pizza Ensalata!
+1683	2	food	It’s a salad on top of pizza crust.
+1684	2	service	It’s a salad on top of pizza crust.
+1685	2	place	It’s a salad on top of pizza crust.
+1686	0	food	Absolutely delicious.
+1687	2	service	Absolutely delicious.
+1688	2	place	Absolutely delicious.
+1689	2	food	The pizza’s are not huge and the crust is thin…keep that in mind when you’re ordering.
+1690	2	service	The pizza’s are not huge and the crust is thin…keep that in mind when you’re ordering.
+1691	2	place	The pizza’s are not huge and the crust is thin…keep that in mind when you’re ordering.
+1692	2	food	Worth the wait
+1693	2	service	Worth the wait
+1694	2	place	Worth the wait
+1695	2	food	– Had to wait thirty minutes to get in the door on a tuesday morning, but it was so worth it.
+1696	2	service	– Had to wait thirty minutes to get in the door on a tuesday morning, but it was so worth it.
+1697	2	place	– Had to wait thirty minutes to get in the door on a tuesday morning, but it was so worth it.
+1698	0	food	The food is sinful.
+1699	2	service	The food is sinful.
+1700	2	place	The food is sinful.
+1701	2	food	The staff was really friendly.
+1702	0	service	The staff was really friendly.
+1703	2	place	The staff was really friendly.
+1704	2	food	The atmosphere was great.
+1705	2	service	The atmosphere was great.
+1706	0	place	The atmosphere was great.
+1707	0	food	The specialty here is decadent pancakes, but I've been back now four times, and I've been wowed every time.
+1708	2	service	The specialty here is decadent pancakes, but I've been back now four times, and I've been wowed every time.
+1709	2	place	The specialty here is decadent pancakes, but I've been back now four times, and I've been wowed every time.
+1710	0	food	Nothing on the menu is less than amazing.
+1711	2	service	Nothing on the menu is less than amazing.
+1712	2	place	Nothing on the menu is less than amazing.
+1713	0	food	Go with some friends, wait the half hour or so with a cup of joe, and enjoy more than your average breakfast.
+1714	2	service	Go with some friends, wait the half hour or so with a cup of joe, and enjoy more than your average breakfast.
+1715	2	place	Go with some friends, wait the half hour or so with a cup of joe, and enjoy more than your average breakfast.
+1716	0	food	Good eats.
+1717	2	service	Good eats.
+1718	2	place	Good eats.
+1719	2	food	Whose writing all the great reviews?
+1720	2	service	Whose writing all the great reviews?
+1721	2	place	Whose writing all the great reviews?
+1722	2	food	Why is it that (almost) every good review is by "anonymous?"
+1723	2	service	Why is it that (almost) every good review is by "anonymous?"
+1724	2	place	Why is it that (almost) every good review is by "anonymous?"
+1725	2	food	I don't know why anyone would want to write a great review about this place.
+1726	2	service	I don't know why anyone would want to write a great review about this place.
+1727	2	place	I don't know why anyone would want to write a great review about this place.
+1728	2	food	I have been to this place, folks and it is BAD.
+1729	2	service	I have been to this place, folks and it is BAD.
+1730	2	place	I have been to this place, folks and it is BAD.
+1731	1	food	Maybe it is good for that one night once in a blue moon when the chefs decide to use fish that's half-way decent.
+1732	2	service	Maybe it is good for that one night once in a blue moon when the chefs decide to use fish that's half-way decent.
+1733	2	place	Maybe it is good for that one night once in a blue moon when the chefs decide to use fish that's half-way decent.
+1734	1	food	I have been here, spent tons of money on a chef special dinner and it was a major dissappointment.
+1735	2	service	I have been here, spent tons of money on a chef special dinner and it was a major dissappointment.
+1736	2	place	I have been here, spent tons of money on a chef special dinner and it was a major dissappointment.
+1737	1	food	Fancy pieces of exotic fish on a $100 dollar plate and NOT ONE was eatable.
+1738	2	service	Fancy pieces of exotic fish on a $100 dollar plate and NOT ONE was eatable.
+1739	2	place	Fancy pieces of exotic fish on a $100 dollar plate and NOT ONE was eatable.
+1740	2	food	DONOT GO!
+1741	2	service	DONOT GO!
+1742	2	place	DONOT GO!
+1743	0	food	Delicious
+1744	2	service	Delicious
+1745	2	place	Delicious
+1746	2	food	– The atmosphere is great for any special occasion you might want to celebrate.
+1747	2	service	– The atmosphere is great for any special occasion you might want to celebrate.
+1748	0	place	– The atmosphere is great for any special occasion you might want to celebrate.
+1749	0	food	The best dish are the honwy walnut prawns- just outstanding.
+1750	2	service	The best dish are the honwy walnut prawns- just outstanding.
+1751	2	place	The best dish are the honwy walnut prawns- just outstanding.
+1752	2	food	The service is really attentive and charming.
+1753	0	service	The service is really attentive and charming.
+1754	2	place	The service is really attentive and charming.
+1755	2	food	4 Locations
+1756	2	service	4 Locations
+1757	2	place	4 Locations
+1758	2	food	– they have 4 locations.
+1759	2	service	– they have 4 locations.
+1760	2	place	– they have 4 locations.
+1761	2	food	the 2 listed and then one in Southglenn mall parking lot which is reviewed here and one in Ft Collins.
+1762	2	service	the 2 listed and then one in Southglenn mall parking lot which is reviewed here and one in Ft Collins.
+1763	2	place	the 2 listed and then one in Southglenn mall parking lot which is reviewed here and one in Ft Collins.
+1764	2	food	We waited for an hour to be seated.
+1765	1	service	We waited for an hour to be seated.
+1766	2	place	We waited for an hour to be seated.
+1767	0	food	The service was excellent, the coffee was good even by starbucks standards and the food was outstanding.
+1768	0	service	The service was excellent, the coffee was good even by starbucks standards and the food was outstanding.
+1769	2	place	The service was excellent, the coffee was good even by starbucks standards and the food was outstanding.
+1770	2	food	It was worth the wait.
+1771	2	service	It was worth the wait.
+1772	2	place	It was worth the wait.
+1773	2	food	Plan on waiting 30-70 minutes.
+1774	2	service	Plan on waiting 30-70 minutes.
+1775	2	place	Plan on waiting 30-70 minutes.
+1776	2	food	Will definitely be back.
+1777	2	service	Will definitely be back.
+1778	2	place	Will definitely be back.
+1779	2	food	Southglenn is largest location.
+1780	2	service	Southglenn is largest location.
+1781	2	place	Southglenn is largest location.
+1782	0	food	Delicious...!
+1783	2	service	Delicious...!
+1784	2	place	Delicious...!
+1785	2	food	– I recently had the pleasure of dining as this delightful restaurant on 2nd street and wow what a great evening we had.
+1786	2	service	– I recently had the pleasure of dining as this delightful restaurant on 2nd street and wow what a great evening we had.
+1787	2	place	– I recently had the pleasure of dining as this delightful restaurant on 2nd street and wow what a great evening we had.
+1788	0	food	The food is fantastic, authentic, delicious and very, very affordable.
+1789	2	service	The food is fantastic, authentic, delicious and very, very affordable.
+1790	2	place	The food is fantastic, authentic, delicious and very, very affordable.
+1791	2	food	The decor was beautiful and unique.
+1792	2	service	The decor was beautiful and unique.
+1793	0	place	The decor was beautiful and unique.
+1794	2	food	There was a really nice vibe about the place...good music, atmosphere and happy looking people.
+1795	2	service	There was a really nice vibe about the place...good music, atmosphere and happy looking people.
+1796	0	place	There was a really nice vibe about the place...good music, atmosphere and happy looking people.
+1797	2	food	Our server was very professional and friendly.
+1798	0	service	Our server was very professional and friendly.
+1799	2	place	Our server was very professional and friendly.
+1800	2	food	To the owners of Open Sesame...Bravo...I can't wait to come back to dine at your restaurant!
+1801	2	service	To the owners of Open Sesame...Bravo...I can't wait to come back to dine at your restaurant!
+1802	2	place	To the owners of Open Sesame...Bravo...I can't wait to come back to dine at your restaurant!
+1803	0	food	Delectable 
+1804	2	service	Delectable 
+1805	2	place	Delectable 
+1806	2	food	It's a tiny place so if you get there before 8pm on a weekend (Thurs?Sun) you will find it easier to get a table or a seat at the sushi bar.
+1807	2	service	It's a tiny place so if you get there before 8pm on a weekend (Thurs?Sun) you will find it easier to get a table or a seat at the sushi bar.
+1808	2	place	It's a tiny place so if you get there before 8pm on a weekend (Thurs?Sun) you will find it easier to get a table or a seat at the sushi bar.
+1809	2	food	Once you're inside, the real experience begins.
+1810	2	service	Once you're inside, the real experience begins.
+1811	2	place	Once you're inside, the real experience begins.
+1812	0	food	Everything, and I mean everything on the menu is delectable.
+1813	2	service	Everything, and I mean everything on the menu is delectable.
+1814	2	place	Everything, and I mean everything on the menu is delectable.
+1815	2	food	The waiters are very experienced and helpful with pairing your drink choice to your food tastes or vice versa.
+1816	0	service	The waiters are very experienced and helpful with pairing your drink choice to your food tastes or vice versa.
+1817	2	place	The waiters are very experienced and helpful with pairing your drink choice to your food tastes or vice versa.
+1818	0	food	The sushi is as fresh as it comes?you'd think ocean was in their backyard, no joke!
+1819	2	service	The sushi is as fresh as it comes?you'd think ocean was in their backyard, no joke!
+1820	2	place	The sushi is as fresh as it comes?you'd think ocean was in their backyard, no joke!
+1821	0	food	If you're interested in good tasting (without the fish taste or smell), large portions and creative sushi dishes this is your place...
+1822	2	service	If you're interested in good tasting (without the fish taste or smell), large portions and creative sushi dishes this is your place...
+1823	2	place	If you're interested in good tasting (without the fish taste or smell), large portions and creative sushi dishes this is your place...
+1824	0	food	big thick pepperoni
+1825	2	service	big thick pepperoni
+1826	2	place	big thick pepperoni
+1827	0	food	– The pepperoni's cut real thick--Yum.
+1828	2	service	– The pepperoni's cut real thick--Yum.
+1829	2	place	– The pepperoni's cut real thick--Yum.
+1830	0	food	The pizza itself is not exactly the best I've had EVER, but still pretty good.
+1831	2	service	The pizza itself is not exactly the best I've had EVER, but still pretty good.
+1832	2	place	The pizza itself is not exactly the best I've had EVER, but still pretty good.
+1833	2	food	I probably wouldn't go back though 'cuz I don't know if it's worth it.
+1834	2	service	I probably wouldn't go back though 'cuz I don't know if it's worth it.
+1835	2	place	I probably wouldn't go back though 'cuz I don't know if it's worth it.
+1836	2	food	Maybe I'll go back once more many years from now when I've forgotten I went there already.
+1837	2	service	Maybe I'll go back once more many years from now when I've forgotten I went there already.
+1838	2	place	Maybe I'll go back once more many years from now when I've forgotten I went there already.
+1839	2	food	Sit in the Balcony
+1840	2	service	Sit in the Balcony
+1841	0	place	Sit in the Balcony
+1842	2	food	– Not bad.
+1843	2	service	– Not bad.
+1844	2	place	– Not bad.
+1845	0	food	Food was good and appetizing.
+1846	2	service	Food was good and appetizing.
+1847	2	place	Food was good and appetizing.
+1848	2	food	Portions was just enough for me, but may not be for a big eater.
+1849	2	service	Portions was just enough for me, but may not be for a big eater.
+1850	2	place	Portions was just enough for me, but may not be for a big eater.
+1851	2	food	Fair menu selection.
+1852	2	service	Fair menu selection.
+1853	2	place	Fair menu selection.
+1854	0	food	The appetizer was interesting, but the Creme Brulee was very savory and delicious.
+1855	2	service	The appetizer was interesting, but the Creme Brulee was very savory and delicious.
+1856	2	place	The appetizer was interesting, but the Creme Brulee was very savory and delicious.
+1857	2	food	Indoor ambience was modern.
+1858	2	service	Indoor ambience was modern.
+1859	0	place	Indoor ambience was modern.
+1860	2	food	If it's nice outside, request for a table in the balcony.
+1861	2	service	If it's nice outside, request for a table in the balcony.
+1862	0	place	If it's nice outside, request for a table in the balcony.
+1863	2	food	It's a great place to people watch.
+1864	2	service	It's a great place to people watch.
+1865	2	place	It's a great place to people watch.
+1866	2	food	Although the service could be improved considering the money you put in.
+1867	1	service	Although the service could be improved considering the money you put in.
+1868	2	place	Although the service could be improved considering the money you put in.
+1869	2	food	Our drinks kept coming but our server came by a couple times.
+1870	0	service	Our drinks kept coming but our server came by a couple times.
+1871	2	place	Our drinks kept coming but our server came by a couple times.
+1872	2	food	Should check-up on us more frequently, don't you think?
+1873	1	service	Should check-up on us more frequently, don't you think?
+1874	2	place	Should check-up on us more frequently, don't you think?
+1875	0	food	Late night dinning with exeptional food.
+1876	2	service	Late night dinning with exeptional food.
+1877	2	place	Late night dinning with exeptional food.
+1878	2	food	– I didn't want to go there because of the reviews and prices I saw on the internet.
+1879	2	service	– I didn't want to go there because of the reviews and prices I saw on the internet.
+1880	2	place	– I didn't want to go there because of the reviews and prices I saw on the internet.
+1881	2	food	That was the last night in Vegas and was too late and most of the restaurant were closing - so we walked in the check the place.
+1882	2	service	That was the last night in Vegas and was too late and most of the restaurant were closing - so we walked in the check the place.
+1883	2	place	That was the last night in Vegas and was too late and most of the restaurant were closing - so we walked in the check the place.
+1884	2	food	We were seated right away, the table was private and nice.
+1885	0	service	We were seated right away, the table was private and nice.
+1886	0	place	We were seated right away, the table was private and nice.
+1887	2	food	The service was exceptional - sometime there was a feeling that we were served by the army of friendly waiters.
+1888	0	service	The service was exceptional - sometime there was a feeling that we were served by the army of friendly waiters.
+1889	2	place	The service was exceptional - sometime there was a feeling that we were served by the army of friendly waiters.
+1890	0	food	The food was very good, filet mignon was probably the best I've ever try.
+1891	2	service	The food was very good, filet mignon was probably the best I've ever try.
+1892	2	place	The food was very good, filet mignon was probably the best I've ever try.
+1893	2	food	The portions are big though, so do not order too much.
+1894	2	service	The portions are big though, so do not order too much.
+1895	2	place	The portions are big though, so do not order too much.
+1896	2	food	Groovy music made the dinner casual.
+1897	2	service	Groovy music made the dinner casual.
+1898	0	place	Groovy music made the dinner casual.
+1899	2	food	The most pleasant surprise was the check that did not exceed my expectations as it always happens in most of the places.
+1900	2	service	The most pleasant surprise was the check that did not exceed my expectations as it always happens in most of the places.
+1901	2	place	The most pleasant surprise was the check that did not exceed my expectations as it always happens in most of the places.
+1902	2	food	I have a but here - there was a bathroom attendant in the restroom which was odd.
+1903	2	service	I have a but here - there was a bathroom attendant in the restroom which was odd.
+1904	2	place	I have a but here - there was a bathroom attendant in the restroom which was odd.
+1905	2	food	The bathroom itself is very small with two toilets and only one sink, the girl was staying totally on the way hanging out paper towels from the dispenser.
+1906	2	service	The bathroom itself is very small with two toilets and only one sink, the girl was staying totally on the way hanging out paper towels from the dispenser.
+1907	2	place	The bathroom itself is very small with two toilets and only one sink, the girl was staying totally on the way hanging out paper towels from the dispenser.
+1908	2	food	There were 3 bottles of perfume on the sink and the line of girls trying to use the sink.
+1909	2	service	There were 3 bottles of perfume on the sink and the line of girls trying to use the sink.
+1910	2	place	There were 3 bottles of perfume on the sink and the line of girls trying to use the sink.
+1911	2	food	I felt ackward and next time went to the casino bathroom.
+1912	2	service	I felt ackward and next time went to the casino bathroom.
+1913	2	place	I felt ackward and next time went to the casino bathroom.
+1914	2	food	This place rocks!!
+1915	2	service	This place rocks!!
+1916	2	place	This place rocks!!
+1917	0	food	– Mercedes restaurant is so tasty, the service is undeniably awesome!
+1918	0	service	– Mercedes restaurant is so tasty, the service is undeniably awesome!
+1919	2	place	– Mercedes restaurant is so tasty, the service is undeniably awesome!
+1920	0	food	The chips  and salsa are so yummy, and the prices are fabulous.
+1921	2	service	The chips  and salsa are so yummy, and the prices are fabulous.
+1922	2	place	The chips  and salsa are so yummy, and the prices are fabulous.
+1923	2	food	The atmosphere is aspiring, and  the decor is festive and amazing..
+1924	2	service	The atmosphere is aspiring, and  the decor is festive and amazing..
+1925	0	place	The atmosphere is aspiring, and  the decor is festive and amazing..
+1926	0	food	The catering is out of this world, and Raouls chicken vegetable soup rocks my world!!!
+1927	2	service	The catering is out of this world, and Raouls chicken vegetable soup rocks my world!!!
+1928	2	place	The catering is out of this world, and Raouls chicken vegetable soup rocks my world!!!
+1929	0	food	Drinks are suberb, and I feel like I am in a Third World country when I walk in the door.
+1930	2	service	Drinks are suberb, and I feel like I am in a Third World country when I walk in the door.
+1931	0	place	Drinks are suberb, and I feel like I am in a Third World country when I walk in the door.
+1932	2	food	Insultingly Overpriced
+1933	2	service	Insultingly Overpriced
+1934	2	place	Insultingly Overpriced
+1935	2	food	- Mediocre Service/Quality
+1936	2	service	- Mediocre Service/Quality
+1937	2	place	- Mediocre Service/Quality
+1938	2	food	– This review is for the Southglen location which is not listed in Citysearch:  I wish this review would make a difference enough for it to be addressed by management but Snooze has people climbing over each other for a chance to eat at this overpriced restaurant with mediocre food and service, so this review as well as the other negative ones for their Larimer location will go unaddressed.
+1939	2	service	– This review is for the Southglen location which is not listed in Citysearch:  I wish this review would make a difference enough for it to be addressed by management but Snooze has people climbing over each other for a chance to eat at this overpriced restaurant with mediocre food and service, so this review as well as the other negative ones for their Larimer location will go unaddressed.
+1940	2	place	– This review is for the Southglen location which is not listed in Citysearch:  I wish this review would make a difference enough for it to be addressed by management but Snooze has people climbing over each other for a chance to eat at this overpriced restaurant with mediocre food and service, so this review as well as the other negative ones for their Larimer location will go unaddressed.
+1941	1	food	The presentation of Snooze is excellent and it is one of those places that you feel more sophisticated just for being there; but peel back the layers and you have an overpriced IHOP with a high brow menu.
+1942	2	service	The presentation of Snooze is excellent and it is one of those places that you feel more sophisticated just for being there; but peel back the layers and you have an overpriced IHOP with a high brow menu.
+1943	0	place	The presentation of Snooze is excellent and it is one of those places that you feel more sophisticated just for being there; but peel back the layers and you have an overpriced IHOP with a high brow menu.
+1944	1	food	To start off, approximately 8-10 oz of orange juice will cost you $3.
+1945	2	service	To start off, approximately 8-10 oz of orange juice will cost you $3.
+1946	2	place	To start off, approximately 8-10 oz of orange juice will cost you $3.
+1947	1	food	They serve it in a tall, skinny hour-glass shaped glass to disguise the fact that you a getting a small juice at the price of a half gallon in a supermarket.
+1948	2	service	They serve it in a tall, skinny hour-glass shaped glass to disguise the fact that you a getting a small juice at the price of a half gallon in a supermarket.
+1949	2	place	They serve it in a tall, skinny hour-glass shaped glass to disguise the fact that you a getting a small juice at the price of a half gallon in a supermarket.
+1950	0	food	I should have just asked for the check when I saw that; but their menu was so unique that I continued.
+1951	2	service	I should have just asked for the check when I saw that; but their menu was so unique that I continued.
+1952	2	place	I should have just asked for the check when I saw that; but their menu was so unique that I continued.
+1953	1	food	The pancakes were certainly inventive but $8.50 for 3 - 6" pancakes (one of them was more like 5") in the pancake flight (sample of 3 different pancakes) is well over-priced.
+1954	2	service	The pancakes were certainly inventive but $8.50 for 3 - 6" pancakes (one of them was more like 5") in the pancake flight (sample of 3 different pancakes) is well over-priced.
+1955	2	place	The pancakes were certainly inventive but $8.50 for 3 - 6" pancakes (one of them was more like 5") in the pancake flight (sample of 3 different pancakes) is well over-priced.
+1956	1	food	The pancakes should be larger (at least 8") to justify the expense even with the unique offerings.
+1957	2	service	The pancakes should be larger (at least 8") to justify the expense even with the unique offerings.
+1958	2	place	The pancakes should be larger (at least 8") to justify the expense even with the unique offerings.
+1959	2	food	The flavors were good but I have had far better pancakes at a German pancake specialty restaurant that were a little cheaper but significantly larger.
+1960	2	service	The flavors were good but I have had far better pancakes at a German pancake specialty restaurant that were a little cheaper but significantly larger.
+1961	2	place	The flavors were good but I have had far better pancakes at a German pancake specialty restaurant that were a little cheaper but significantly larger.
+1962	1	food	On my meal I had to send back my eggs for a simple request of breaking the yokes before cooking, and would have had to send them back again if I hadn't rejected the meal all together.
+1963	2	service	On my meal I had to send back my eggs for a simple request of breaking the yokes before cooking, and would have had to send them back again if I hadn't rejected the meal all together.
+1964	2	place	On my meal I had to send back my eggs for a simple request of breaking the yokes before cooking, and would have had to send them back again if I hadn't rejected the meal all together.
+1965	1	food	I rejected it because in the process of attempting to fix the eggs they broke something else in the dish and I was too frustrated to continue.
+1966	2	service	I rejected it because in the process of attempting to fix the eggs they broke something else in the dish and I was too frustrated to continue.
+1967	2	place	I rejected it because in the process of attempting to fix the eggs they broke something else in the dish and I was too frustrated to continue.
+1968	2	food	To their credit they removed the dish from the check; but no manager stopped by to ask what the problem was.
+1969	0	service	To their credit they removed the dish from the check; but no manager stopped by to ask what the problem was.
+1970	2	place	To their credit they removed the dish from the check; but no manager stopped by to ask what the problem was.
+1971	1	food	In the end our check came to $27 for 4 small pancakes, a breakfast burrito, an orange juice and an iced tea (I had water).
+1972	2	service	In the end our check came to $27 for 4 small pancakes, a breakfast burrito, an orange juice and an iced tea (I had water).
+1973	2	place	In the end our check came to $27 for 4 small pancakes, a breakfast burrito, an orange juice and an iced tea (I had water).
+1974	2	food	This was 2 times what the same meal would have cost at Le Peep.
+1975	2	service	This was 2 times what the same meal would have cost at Le Peep.
+1976	2	place	This was 2 times what the same meal would have cost at Le Peep.
+1977	2	food	Snooze provided an inventive pancake offering, but Le Peep would have provided better service and quality.
+1978	2	service	Snooze provided an inventive pancake offering, but Le Peep would have provided better service and quality.
+1979	2	place	Snooze provided an inventive pancake offering, but Le Peep would have provided better service and quality.
+1980	2	food	Much more than just a great view!
+1981	2	service	Much more than just a great view!
+1982	0	place	Much more than just a great view!
+1983	2	food	– I am exceedingly pleased to report that my dinner at Ray's Boathouse last Friday completely exceeded my expectations.
+1984	2	service	– I am exceedingly pleased to report that my dinner at Ray's Boathouse last Friday completely exceeded my expectations.
+1985	2	place	– I am exceedingly pleased to report that my dinner at Ray's Boathouse last Friday completely exceeded my expectations.
+1986	2	food	Ray's is something of a Seattle institution, but given its gorgeous Sound views, I had suspected that the accolades were more due to the scenery than to the food and service.
+1987	2	service	Ray's is something of a Seattle institution, but given its gorgeous Sound views, I had suspected that the accolades were more due to the scenery than to the food and service.
+1988	0	place	Ray's is something of a Seattle institution, but given its gorgeous Sound views, I had suspected that the accolades were more due to the scenery than to the food and service.
+1989	2	food	Imagine my happy surprise upon finding that the views are only the third-best thing about Ray's!
+1990	2	service	Imagine my happy surprise upon finding that the views are only the third-best thing about Ray's!
+1991	0	place	Imagine my happy surprise upon finding that the views are only the third-best thing about Ray's!
+1992	2	food	To start things off, our lovely server Brooke was quickly on hand to take my drink order.
+1993	0	service	To start things off, our lovely server Brooke was quickly on hand to take my drink order.
+1994	2	place	To start things off, our lovely server Brooke was quickly on hand to take my drink order.
+1995	0	food	My party of two was feeling particularly ambitious, and we splurged on the Shilshole Sampler...a beautiful assortment of enormous white gulf prawns, smoked albacore tuna, Ray's fantastic manila clams seasoned with dill, scallops in a tasty soy dressing, and a tiny pile of Dungeness crab atop a sublime butter sauce.
+1996	2	service	My party of two was feeling particularly ambitious, and we splurged on the Shilshole Sampler...a beautiful assortment of enormous white gulf prawns, smoked albacore tuna, Ray's fantastic manila clams seasoned with dill, scallops in a tasty soy dressing, and a tiny pile of Dungeness crab atop a sublime butter sauce.
+1997	2	place	My party of two was feeling particularly ambitious, and we splurged on the Shilshole Sampler...a beautiful assortment of enormous white gulf prawns, smoked albacore tuna, Ray's fantastic manila clams seasoned with dill, scallops in a tasty soy dressing, and a tiny pile of Dungeness crab atop a sublime butter sauce.
+1998	0	food	For my entr&eacute;e, I completely enjoyed the seared Alaskan sea scallops complemented by chard, artichoke hearts, fennel, and pecorino toscano.
+1999	2	service	For my entr&eacute;e, I completely enjoyed the seared Alaskan sea scallops complemented by chard, artichoke hearts, fennel, and pecorino toscano.
+2000	2	place	For my entr&eacute;e, I completely enjoyed the seared Alaskan sea scallops complemented by chard, artichoke hearts, fennel, and pecorino toscano.
+2001	0	food	The scallops are apparently cooked in a black olive butter which really makes them unique (not to mention tasty).
+2002	2	service	The scallops are apparently cooked in a black olive butter which really makes them unique (not to mention tasty).
+2003	2	place	The scallops are apparently cooked in a black olive butter which really makes them unique (not to mention tasty).
+2004	0	food	My friend enjoyed the grilled Alaskan King Salmon with delectable creamed Washington russet potatoes and crisp green beans.
+2005	2	service	My friend enjoyed the grilled Alaskan King Salmon with delectable creamed Washington russet potatoes and crisp green beans.
+2006	2	place	My friend enjoyed the grilled Alaskan King Salmon with delectable creamed Washington russet potatoes and crisp green beans.
+2007	0	food	I had a taste of all three items on her plate, and they were superb.
+2008	2	service	I had a taste of all three items on her plate, and they were superb.
+2009	2	place	I had a taste of all three items on her plate, and they were superb.
+2010	2	food	Our server continued to be attentive throughout the night, but I did remain puzzled by one issue:  Who thinks that Ray's is an appropriate place to take young children for dinner?
+2011	0	service	Our server continued to be attentive throughout the night, but I did remain puzzled by one issue:  Who thinks that Ray's is an appropriate place to take young children for dinner?
+2012	2	place	Our server continued to be attentive throughout the night, but I did remain puzzled by one issue:  Who thinks that Ray's is an appropriate place to take young children for dinner?
+2013	2	food	Two rascally kids were seated near us for the first part of our dinner...they were replaced by a delightful preteen who pretended to gag every time seafood was mentioned at her table.
+2014	2	service	Two rascally kids were seated near us for the first part of our dinner...they were replaced by a delightful preteen who pretended to gag every time seafood was mentioned at her table.
+2015	2	place	Two rascally kids were seated near us for the first part of our dinner...they were replaced by a delightful preteen who pretended to gag every time seafood was mentioned at her table.
+2016	2	food	Given that Ray's is a seafood restaurant...well, you get the idea...
+2017	2	service	Given that Ray's is a seafood restaurant...well, you get the idea...
+2018	2	place	Given that Ray's is a seafood restaurant...well, you get the idea...
+2019	2	food	All considered, I have to say that Ray's Boathouse is deserving of its title as a Seattle institution.
+2020	2	service	All considered, I have to say that Ray's Boathouse is deserving of its title as a Seattle institution.
+2021	2	place	All considered, I have to say that Ray's Boathouse is deserving of its title as a Seattle institution.
+2022	0	food	While I could have done without the youth who shared the evening with us, our wonderful server and food made the experience a very positive one.
+2023	0	service	While I could have done without the youth who shared the evening with us, our wonderful server and food made the experience a very positive one.
+2024	2	place	While I could have done without the youth who shared the evening with us, our wonderful server and food made the experience a very positive one.
+2025	2	food	Oh yeah...the view was good, too.
+2026	2	service	Oh yeah...the view was good, too.
+2027	0	place	Oh yeah...the view was good, too.
